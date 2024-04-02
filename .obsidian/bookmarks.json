@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1702299413605,
+      "path": "Untitled 1.md",
+      "title": "ad"
+    },
+    {
+      "type": "group",
+      "ctime": 1709909970263,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1709910033358,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1709910148117,
+              "items": [],
+              "title": "December 23"
+            },
+            {
+              "type": "group",
+              "ctime": 1709910148117,
+              "items": [],
+              "title": "January 24"
+            },
+            {
+              "type": "group",
+              "ctime": 1709910148117,
+              "items": [],
+              "title": "February 24"
+            },
+            {
+              "type": "group",
+              "ctime": 1710519111040,
+              "items": [],
+              "title": "March 24"
+            },
+            {
+              "type": "group",
+              "ctime": 1710519057606,
+              "items": [],
+              "title": "April 24"
+            }
+          ],
+          "title": "Homework"
+        },
+        {
+          "type": "group",
+          "ctime": 1709910033358,
+          "items": [],
+          "title": "CSA notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1709910033358,
+          "items": [],
+          "title": "Pre-Calc notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1709910033358,
+          "items": [],
+          "title": "Excalidraw"
+        },
+        {
+          "type": "group",
+          "ctime": 1709910033358,
+          "items": [],
+          "title": "Assets"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

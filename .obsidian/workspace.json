@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a69f7fa060ffd0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f51f7af11afa7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e5bc610b947277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/4-2-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ee1c87cc38836c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a42312792823a6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a95bc65f0c861c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b0fcc9bb7b9f3e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#homework",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6bf5acef4bc2abc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5110321044922
+  },
+  "right": {
+    "id": "5a5611be27b90661",
+    "type": "split",
+    "children": [
+      {
+        "id": "aad1e718aa3c7953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce4e0b709b3b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c26b68c3294b847f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "570d20cfc8d5b0f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homework/4-2-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76420440c15a7ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homework/4-2-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dc24c948e7e1a59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework/4-2-2024.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "a9e5bc610b947277",
+  "lastOpenFiles": [
+    "obsidian",
+    "Homework/April 24/4-1-2024.md",
+    "Homework/4-2-2024.md",
+    "Homework/March 24/3-27-2024.md",
+    "Homework/April 24/4-12-2024.md",
+    "Homework/March 24/3-26-2024.md",
+    "Excalidraw/Drawing 2024-03-27 14.46.34.excalidraw.md",
+    "Homework/child po/child po.canvas",
+    "Homework/March 24/3-5-2024.md",
+    "Homework/2-29-2024.md",
+    "Homework/March 24/3-4-2024.md",
+    "Homework/March 24/3-6-2024.md",
+    "Homework/March 24/3-7-2024.md",
+    "Homework/March 24/3-8-2024.md",
+    "Homework/March 24/3-11-2024.md",
+    "Homework/March 24/3-12-2024.md",
+    "Homework/March 24/3-13-2024.md",
+    "Homework/March 24/3-14-2024.md",
+    "Homework/March 24/3-15-2024.md",
+    "Homework/March 24/3-18-2024.md",
+    "Homework/March 24/3-22-2024.md",
+    "Homework/March 24/3-25-2024.md",
+    "Untitled.canvas",
+    "Assets/child po scroll.png",
+    "Homework/child po/infant po.md",
+    "Homework/child po/child po two electric boogaloo.png",
+    "Homework/child po/po.png",
+    "Homework/child po/white child po.png",
+    "Homework/child po/chinese child po.png",
+    "Homework/child po/child po in a bucket.png",
+    "Homework/child po/yash.png",
+    "Homework/child po/hungry child po.png",
+    "Homework/child po/vulnerable child po.png",
+    "Homework/child po/crawling child po.png",
+    "Pre-Calc notes/Trig & Radians.md",
+    "Homework/child po/Untitled.md",
+    "Homework/child po",
+    "Homework/December 23/12-13-2023.md",
+    "Homework/January 24/1-10-2024.md",
+    "Homework/April 24",
+    "Assets/Recording 20240307203811.webm",
+    "Spaces/Home",
+    "Spaces",
+    "Homework/March 24",
+    "Homework/February 24",
+    "Homework/January 24",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "Homework/December 23",
+    "Everything.canvas",
+    "Homework/Untitled.canvas"
+  ]
+}
