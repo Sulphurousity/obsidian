@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/4-2-2024.md",
+                "file": "Untitled/test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/4-2-2024.md",
+                "file": "Untitled/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/4-2-2024.md",
+                "file": "Untitled/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/4-2-2024.md"
+                "file": "Untitled/test.md"
               }
             }
           }
@@ -162,9 +162,12 @@
   },
   "active": "a9e5bc610b947277",
   "lastOpenFiles": [
+    "Homework/March 24/3-15-2024.md",
+    "Untitled/test.md",
+    "Untitled",
+    "Homework/4-2-2024.md",
     "obsidian",
     "Homework/April 24/4-1-2024.md",
-    "Homework/4-2-2024.md",
     "Homework/March 24/3-27-2024.md",
     "Homework/April 24/4-12-2024.md",
     "Homework/March 24/3-26-2024.md",
@@ -180,7 +183,6 @@
     "Homework/March 24/3-12-2024.md",
     "Homework/March 24/3-13-2024.md",
     "Homework/March 24/3-14-2024.md",
-    "Homework/March 24/3-15-2024.md",
     "Homework/March 24/3-18-2024.md",
     "Homework/March 24/3-22-2024.md",
     "Homework/March 24/3-25-2024.md",
@@ -208,9 +210,7 @@
     "Homework/March 24",
     "Homework/February 24",
     "Homework/January 24",
-    "Excalidraw",
     "Untitled 1.canvas",
-    "Homework/December 23",
     "Everything.canvas",
     "Homework/Untitled.canvas"
   ]
