@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "ce93363f72b95342",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5da6ff6005ffeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e01e3b80891d5615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/April 24/4-2-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aca4445ab1d1a604",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52063d262b6569ae",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e522bbb01eb2821b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "246ff04d67112977",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dc62124809ff4d24",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "87bf39dc532ef814",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "18dfa903b7f105bc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Homework/April 24/4-2-2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d68de6fb1b7f4ca1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Homework/April 24/4-2-2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "12e379a29f434ead",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Homework/April 24/4-2-2024.md"
+          }
+        }
+      },
+      {
+        "id": "cd4ce38aec03a015",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "custom-sort:Toggle custom sorting": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e01e3b80891d5615",
+  "lastOpenFiles": [
+    "Homework/April 24/4-12-2024.md",
+    "Pre-Calc notes",
+    "Pre-Calc notes/Trig & Radians.md",
+    "Homework/February 24/2-15-2024.md",
+    "Homework/February 24/2-28-2024.md",
+    "Homework/February 24/2-12-2024.md",
+    "Homework/February 24/2-6-2024.md",
+    "Homework/February 24/2-27-2024.md",
+    "Homework/February 24/2-26-2024.md",
+    "Homework/March 24/3-25-2024.md",
+    "Homework/March 24/3-8-2024.md",
+    "Homework/March 24/3-26-2024.md",
+    "Homework/March 24/3-27-2024.md",
+    "Homework/March 24/3-18-2024.md",
+    "Homework/March 24/3-6-2024.md",
+    "Homework/March 24/3-22-2024.md",
+    "Homework/March 24/3-5-2024.md",
+    "Homework/child po/child po scroll.png",
+    "Homework/child po/child po.canvas",
+    "Homework/child po/crawling child po.png",
+    "Homework/child po/child po two electric boogaloo.png",
+    "Homework/child po/hungry child po.png",
+    "Homework/child po/chinese child po.png",
+    "Homework/child po/infant po.md",
+    "Homework/April 24/4-2-2024.md",
+    "Homework/April 24/4-1-2024.md",
+    "Homework/February 24",
+    "Homework/March 24",
+    "Homework/child po",
+    "Homework/April 24",
+    "Homework",
+    "Homework/child po/yash.png",
+    "Homework/March 24/3-11-2024.md",
+    "Homework/March 24/3-7-2024.md",
+    "Homework/child po/child po in a bucket.png",
+    "Homework/March 24/3-12-2024.md",
+    "Homework/child po/vulnerable child po.png",
+    "Homework/March 24/3-4-2024.md",
+    "Homework/March 24/3-13-2024.md",
+    "Homework/January 24/1-6-2024.md",
+    "Homework/January 24",
+    "Homework/child po/white child po.png",
+    "Homework/December 23",
+    "CSA notes"
+  ]
+}
