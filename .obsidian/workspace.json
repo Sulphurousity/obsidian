@@ -11,13 +11,8 @@
             "id": "a9e5bc610b947277",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +153,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a9e5bc610b947277",
+  "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
     "Homework/March 24/3-15-2024.md",
     "Untitled/test.md",
