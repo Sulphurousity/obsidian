@@ -6,5 +6,23 @@
       ],
       "key": "Enter"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }
