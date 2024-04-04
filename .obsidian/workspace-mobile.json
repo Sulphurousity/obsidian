@@ -24,9 +24,12 @@
             "id": "be676e8a415e2cc5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md"
+                "file": "Homework/April 24/4-3-2024.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md",
+            "file": "Homework/April 24/4-3-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md",
+            "file": "Homework/April 24/4-3-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md"
+            "file": "Homework/April 24/4-3-2024.md"
           }
         }
       },
@@ -157,12 +160,14 @@
   },
   "active": "be676e8a415e2cc5",
   "lastOpenFiles": [
+    "Homework/April 24/4-1-2024.md",
     "Homework/April 24/4-2-2024.md",
+    "Homework/April 24/4-3-2024.md",
+    "Homework/April 24/4-12-2024.md",
     "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md",
+    "/Homework/April 24/4-3-2024.md",
     "Excalidraw",
     "/Homework/April 24/4-2-2024.md",
-    "Homework/April 24/4-1-2024.md",
-    "Homework/April 24/4-12-2024.md",
     "Pre-Calc notes",
     "Pre-Calc notes/Trig & Radians.md",
     "Homework/February 24/2-15-2024.md",
@@ -197,8 +202,6 @@
     "Homework/child po/child po in a bucket.png",
     "Homework/March 24/3-12-2024.md",
     "Homework/child po/vulnerable child po.png",
-    "Homework/March 24/3-4-2024.md",
-    "Homework/March 24/3-13-2024.md",
     "Homework/January 24",
     "Homework/child po/white child po.png",
     "Homework/December 23",
