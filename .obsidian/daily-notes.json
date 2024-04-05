@@ -1,5 +1,6 @@
 {
   "format": "M-D-YYYY",
-  "template": "Homework/March 24/3-21-2024",
-  "folder": "Homework"
+  "template": "Homework/April 24/4-12-2024",
+  "folder": "Homework",
+  "autorun": true
 }
