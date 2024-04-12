@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d36016997b5e7c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/April 24/4-12-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be676e8a415e2cc5",
+  "active": "d36016997b5e7c7f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Homework/April 24/4-12-2024.md",
     "/Homework/April 24/4-11-2024.md",
     "Homework/April 24/4-8-2024.md",
     "Homework/April 24/4-9-2024.md",
@@ -178,7 +193,6 @@
     "Homework/March 24/3-7-2024.md",
     "Homework/March 24/3-5-2024.md",
     "Homework/April 24/4-1-2024.md",
-    "Homework/April 24/4-12-2024.md",
     "/Homework/April 24/4-3-2024.md",
     "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md",
     "Excalidraw",
@@ -187,7 +201,6 @@
     "Pre-Calc notes/Trig & Radians.md",
     "Homework/February 24/2-15-2024.md",
     "Homework/February 24/2-28-2024.md",
-    "Homework/February 24/2-12-2024.md",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
