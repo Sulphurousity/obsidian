@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/May 24/5-9-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714e9ace2c60d92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Pre-Calc notes/Trig & Radians.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Pre-Calc notes/Trig & Radians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Pre-Calc notes/Trig & Radians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Pre-Calc notes/Trig & Radians.md"
               }
             }
           }
@@ -174,7 +160,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "714e9ace2c60d92d",
+  "active": "f9ee375c1c981ea2",
   "lastOpenFiles": [
     "Homework/May 24/5-9-2024.md",
     "conflict-files-obsidian-git.md",
