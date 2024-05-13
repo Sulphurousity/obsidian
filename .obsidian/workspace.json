@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/May 24/5-8-2024.md",
+                "file": "Homework/May 24/5-9-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/May 24/5-8-2024.md",
+                "file": "Homework/May 24/5-9-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/May 24/5-8-2024.md",
+                "file": "Homework/May 24/5-9-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/May 24/5-8-2024.md"
+                "file": "Homework/May 24/5-9-2024.md"
               }
             }
           }
@@ -175,15 +173,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b6bf5acef4bc2abc",
+  "active": "d6e6023571a5d3e5",
   "lastOpenFiles": [
+    "Homework/May 24/5-10-2024.md",
+    "Homework/May 24/5-9-2024.md",
     "Homework/May 24/5-8-2024.md",
+    "Homework/May 24/5-1-2024.md",
+    "Homework/May 24/5-3-2024.md",
     "Pre-Calc notes/pre-calc notes i guess.md",
     "Pre-Calc notes/Trig & Radians.md",
-    "Homework/May 24/5-1-2024.md",
-    "Homework/May 24/5-10-2024.md",
     "Homework/May 24/5-11-2024.md",
-    "Homework/May 24/5-9-2024.md",
     "conflict-files-obsidian-git.md",
     "Homework/May 24/5-7-2024.md",
     "Homework/May 24/5-6-2024.md",
@@ -195,7 +194,6 @@
     "CSA notes/Array Lists.md",
     "Pre-Calc notes/Pre-calc notes i guess.md",
     "2024-W18.md",
-    "Homework/May 24/5-3-2024.md",
     "Homework/May 24/5-5-2024.md",
     "Homework/April 24/5-6-2024.md",
     "Homework/May 24/5-21-2024.md",
