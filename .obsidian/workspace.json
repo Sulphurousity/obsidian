@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6e6023571a5d3e5",
+            "id": "52cb215ca09ef5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Calc notes/pre-calc notes i guess.md",
+                "file": "Homework/May 24/5-10-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "52cb215ca09ef5c4",
+            "id": "7265e80191b78a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Calc notes/pre-calc notes i guess.md",
+                "file": "Homework/May 24/5-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pre-Calc notes/pre-calc notes i guess.md",
+                "file": "Homework/May 24/5-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-Calc notes/pre-calc notes i guess.md"
+                "file": "Homework/May 24/5-10-2024.md"
               }
             }
           }
@@ -173,19 +174,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d6e6023571a5d3e5",
+  "active": "7265e80191b78a0c",
   "lastOpenFiles": [
+    "Homework/May 24/5-8-2024.md",
     "Homework/May 24/5-13-2024.md",
+    "conflict-files-obsidian-git.md",
     "Homework/May 24/5-10-2024.md",
+    "Pre-Calc notes/pre-calc notes i guess.md",
     "Homework/May 24/5-6-2024.md",
     "Homework/May 24/5-9-2024.md",
-    "Homework/May 24/5-8-2024.md",
     "Homework/May 24/5-1-2024.md",
     "Homework/May 24/5-3-2024.md",
-    "Pre-Calc notes/pre-calc notes i guess.md",
     "Pre-Calc notes/Trig & Radians.md",
     "Homework/May 24/5-11-2024.md",
-    "conflict-files-obsidian-git.md",
     "Homework/May 24/5-7-2024.md",
     "Homework/May 24/5-4-2024.md",
     "Excalidraw/Drawing 2024-04-02 21.10.36.excalidraw.md",
