@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/May 24/5-23-2024.md",
-                "mode": "source",
+                "file": "Pre-Calc notes/Scratchpad.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/May 24/5-23-2024.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/May 24/5-23-2024.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/May 24/5-23-2024.md"
+                "file": "Pre-Calc notes/Scratchpad.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "f2210d261276b6df",
   "lastOpenFiles": [
-    "Homework/May 24/5-13-2024.md",
     "Homework/May 24/5-23-2024.md",
+    "Pre-Calc notes/Scratchpad.md",
+    "Homework/May 24/5-13-2024.md",
     "Homework/May 24/5-14-2024.md",
     "Homework/May 24/5-17-2024.md",
     "Homework/May 24/5-10-2024.md",
@@ -187,7 +188,6 @@
     "CSA notes/CSA 12-15.md",
     "CSA notes/Array Lists.md",
     "Pre-Calc notes/Pre-calc notes i guess.md",
-    "2024-W18.md",
     "Homework/May 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
