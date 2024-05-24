@@ -16,6 +16,10 @@ $$1.5x^\frac{-5}{2}$$
 $$1.5x^\frac{-5}{2}$$
 $$\frac{1.5}{\sqrt{x^2}}$$
 ___________________________________________________________
-$$\frac{5}{4\sqrt{x}}-\frac{3\sqrt{x^3}}{4}$$
-$$\frac54x^\frac{-1}{2}-\frac34x^\frac32$$
-$$\frac58x^\frac{-3}{2}-\frac98x^\frac12$$
+$$f'(x)=\frac{5}{4\sqrt{x}}-\frac{3\sqrt{x^3}}{4}$$
+$$f'(x)=-\frac54x^\frac{-1}{2}-\frac34x^\frac32$$
+$$f'(x)=-\frac58x^\frac{-3}{2}-\frac98x^\frac12$$
+$$f'(1)=-\frac58(1)^\frac{-3}{2}-\frac98(1)^\frac12$$
+$$f'(1)=-\frac58-\frac98$$
+$$f'(1)=-\frac{14}{8}$$
+$$f'(1)=-\frac{7}{4}$$
