@@ -39,3 +39,5 @@ $$\{0,2,-2\}$$
 $$y=\frac{4x^3}{3}-5x$$
 $$\frac{dy}{dx}=\frac43x^3-5x^{0}$$
 $$\frac{dy}{dx}=4x^2-5$$
+---
+$$find the normal line of the 
