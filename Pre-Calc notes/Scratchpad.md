@@ -53,5 +53,8 @@ $$y-3=\frac{-1}{32}(x-4)$$
 ---
 $$f(x)=2x^2-x+2$$
 $$f'(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}{x+h-x}$$
-$$f'(x)=\lim_{h\to0}\frac{(2(x+h)^2-(x+h)+2)-(2x^2-x+2)}{x+h-x}$$
-$$f'(x)=\lim_{h\to0}\frac{(2x^2+2xh+2h^2-x-h+2)-2x^2+x-2}{x+h-x}$$
+$$f'(x)=\lim_{h\to0}\frac{(2(x+h)^2-(x+h)+2)-(2x^2-x+2)}{h}$$
+$$f'(x)=\lim_{h\to0}\frac{(2x^2+2xh+2h^2-x-h+2)-2x^2+x-2}{h}$$
+$$f'(x)=\lim_{h\to0}\frac{2xh+2h^2-h}{h}$$
+$$f'(x)=\lim_{h\to0}2x+2h-1$$
+$$f'(x)=\lim_{h\to0}2x+2h-1=2x+2(0)-1=2x-1$$
