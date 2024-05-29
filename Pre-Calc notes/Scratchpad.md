@@ -70,3 +70,5 @@ $$f'(1)=0$$
 $$y+2=0(x-1)$$
 $$TLI:\ y=2$$
 $$NLI:\ x=1$$
+---
+$$f'(x)=\lim_{yash\to peak\ human}fucking\ dies$$
