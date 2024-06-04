@@ -139,4 +139,8 @@ $$f'(s)=\frac{(s^{\frac12}+5)-(s^{\frac12}-5)}{2\sqrt{s}(s^{\frac12}+5)^2}$$
 $$f'(s)=\frac{10}{2\sqrt{s}(s^{\frac12}+5)^2}$$
 $$f'(s)=\frac{5}{\sqrt{s}(s^{\frac12}+5)^2}$$
 ---
-$$
+$$y=\frac14x^4+\frac29x^3-x^2+4x-9$$
+$$\frac{dy}{dx}=x^3+\frac23x^2-2x+4$$
+$$\frac{dy'}{dx}=3x^2+\frac43x-2$$
+$$\frac{dy''}{dx}=6x+\frac43$$
+$$\frac{dy'''}{dx}=6$$
