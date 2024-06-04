@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/May 24/6-3-2024.md",
-                "mode": "source",
+                "file": "Pre-Calc notes/Scratchpad.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/May 24/6-3-2024.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/May 24/6-3-2024.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/May 24/6-3-2024.md"
+                "file": "Pre-Calc notes/Scratchpad.md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "1081b1c9115e19da",
   "lastOpenFiles": [
+    "Homework/June 24/6-3-2024.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
@@ -184,7 +185,6 @@
     "Homework/May 24/5-30-2024.md",
     "Homework/May 24/5-29-2024.md",
     "Pre-Calc notes/Scratchpad.md",
-    "Homework/May 24/6-3-2024.md",
     "Pre-Calc notes/Trig & Radians.md",
     "Homework/May 24/5-8-2024.md",
     "CSA notes/Array Lists.md",
@@ -209,7 +209,6 @@
     "Spaces/Home",
     "Spaces",
     "Homework/March 24",
-    "Homework/February 24",
     "Untitled 1.canvas",
     "Everything.canvas",
     "Homework/Untitled.canvas"
