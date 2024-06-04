@@ -151,5 +151,5 @@ $$y'=2*-1+5*3$$
 $$13$$
 ---
 $$y=\frac{x+2}{x-2}$$
-$$\frac{dy}{dx}=\frac{1*x-2-x+2*1}{x-2}$$
-$$\frac{dy}{dx}=\frac
+$$\frac{dy}{dx}=\frac{1*x-2-x-2*1}{(x-2)^2}$$
+$$\frac{dy}{dx}=\frac{-4}{(x-2)^2}$$
