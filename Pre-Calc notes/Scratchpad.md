@@ -131,6 +131,7 @@ $$y=\frac{-1}4x+\frac54$$
 $$y=\frac{x^{-4}}4-\frac89x^{-3}+x^{-2}-6x^{-1}-8$$
 $$\frac{dy}{dx}=-1x^{-5}+\frac83x^{-4}-2x^{-3}+6x^{-2}$$
 ---
-$$f(s)=\frac{\sqrt{s}-6}{\sqrt{s}+4}$$
-$$f(s)=\frac{s^{\frac12}-6}{s^{\frac12}+4}$$
+$$f(s)=\frac{\sqrt{s}-5}{\sqrt{s}+5}$$
+$$f(s)=\frac{s^{\frac12}-5}{s^{\frac12}+5}$$
+$$\frac1{2x^\frac12},\ \frac1{2x^\frac12}$$
 $$f'(s)=\frac{(\frac12s^{\frac{-1}2}*s^{\frac12}+4)-(s^{\frac12}-6*\frac12s^{\frac{-1}2})} {(s^{\frac12}+4)^2}$$
