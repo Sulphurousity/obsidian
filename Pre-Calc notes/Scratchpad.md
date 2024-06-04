@@ -144,3 +144,5 @@ $$\frac{dy}{dx}=x^3+\frac23x^2-2x+4$$
 $$\frac{dy'}{dx}=3x^2+\frac43x-2$$
 $$\frac{dy''}{dx}=6x+\frac43$$
 $$\frac{dy'''}{dx}=6$$
+---
+$$y=uv$$
