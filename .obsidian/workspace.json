@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3609189da58e4c07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -160,7 +171,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1081b1c9115e19da",
+  "active": "3609189da58e4c07",
   "lastOpenFiles": [
     "Homework/June 24/6-5-2024.md",
     "Homework/June 24/6-6-2024.md",
