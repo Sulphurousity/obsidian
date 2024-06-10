@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homework/June 24/6-9-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homework/June 24/6-9-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Homework/June 24/6-9-2024.md"
+              }
             }
           }
         ],
@@ -156,7 +160,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "1081b1c9115e19da",
   "lastOpenFiles": [
     "Homework/June 24/6-9-2024.md",
     "Homework/June 24/6-6-2024.md",
