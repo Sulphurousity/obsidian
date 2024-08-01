@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Calc notes/Scratchpad.md",
+                "file": "Homework/June 24/6-3-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "741e1ce8b5afdd69",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Calc notes/Scratchpad.md",
+                "file": "Homework/June 24/6-3-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pre-Calc notes/Scratchpad.md",
+                "file": "Homework/June 24/6-3-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-Calc notes/Scratchpad.md"
+                "file": "Homework/June 24/6-3-2024.md"
               }
             }
           }
@@ -171,21 +160,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "741e1ce8b5afdd69",
+  "active": "7a48825ca06eae3f",
   "lastOpenFiles": [
-    "Homework/June 24/6-13-2024.md",
-    "Homework/June 24/6-12-2024.md",
+    "Homework/June 24/6-6-2024.md",
     "Homework/June 24/6-11-2024.md",
+    "Homework/June 24/6-13-2024.md",
+    "Pre-Calc notes/Scratchpad.md",
+    "Homework/June 24/6-12-2024.md",
     "Homework/June 24/6-9-2024.md",
     "Homework/June 24/6-5-2024.md",
-    "Homework/June 24/6-6-2024.md",
     "Homework/May 24/5-31-2024.md",
     "Homework/June 24/6-4-2024.md",
     "Homework/June 24/6-3-2024.md",
     "Homework/May 24/5-29-2024.md",
     "Homework/May 24/5-30-2024.md",
     "Homework/May 24/5-28-2024.md",
-    "Pre-Calc notes/Scratchpad.md",
     "Pre-Calc notes/Untitled.md",
     "CSA notes/CSA 12-15.md",
     "CSA notes/Array Lists.md",
