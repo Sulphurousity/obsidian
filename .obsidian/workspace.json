@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7a48825ca06eae3f",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
     "Homework/August 24/8-28-2024.md",
     "Homework/August 24/8-29-2024.md",
