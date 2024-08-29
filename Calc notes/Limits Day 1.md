@@ -19,3 +19,6 @@ $$lim_{t\to 0}\frac{4t^2-1}{3t^2+2t+1}=\frac{-1}{1}=-1$$
 Multiply by the conjugate:
 $$lim_{x\to 16}\frac{x-16}{\sqrt{x}-4}*\frac{\sqrt{x}+9}{\sqrt{x}+9}$$
 $$lim_{x\to 16}\frac{(x-16)(\sqrt{x}+4)}{(x-16)}=\sqrt{x}+4$$
+
+one sided limits:
+$$lim_{x\to0} \frac1{x^2}$$
