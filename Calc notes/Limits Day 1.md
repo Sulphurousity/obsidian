@@ -27,3 +27,8 @@ $\frac{sinx}x$ limit identity:
 $$lim_{x\to0}\frac{sinx}{x}=1$$
 $$lim_{x\to0}\frac{3sinx}{2x}=lim_{x\to0}\frac32*lim_{x\to0}\frac{sinx}{x}$$
 $$\frac32*1=\frac32$$
+
+EBM of rational functions:
+$$lim_{x\to\infty}\frac{5-x^2+x^4}{x+7}$$
+$$\frac{lim_{x\to\infty}x^4}{lim_{x\to\infty}x}$$
+$$\frac{\infty}{}
