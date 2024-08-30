@@ -22,3 +22,7 @@ $$lim_{x\to 16}\frac{(x-16)(\sqrt{x}+4)}{(x-16)}=\sqrt{x}+4$$
 
 one sided limits:
 $$lim_{x\to0}\frac1{x^2}$$
+
+sinx/x limit identity:
+$$lim_{x\to0}\frac{sinx}{x}=1$$
+$$lim_{x\to0}\frac{3sinx}{2x}=lim_{x\to0}\frac31*lim_{x\to0}\frac{3sinx}{2x}=\frac32$$
