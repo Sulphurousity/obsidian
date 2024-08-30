@@ -21,4 +21,4 @@ $$lim_{x\to 16}\frac{x-16}{\sqrt{x}-4}*\frac{\sqrt{x}+9}{\sqrt{x}+9}$$
 $$lim_{x\to 16}\frac{(x-16)(\sqrt{x}+4)}{(x-16)}=\sqrt{x}+4$$
 
 one sided limits:
-$$lim_{x\to0} \frac1{x^2}$$
+$$lim_{x\to0}\frac1{x^2}$$
