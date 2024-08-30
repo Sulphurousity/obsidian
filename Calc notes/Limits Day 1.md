@@ -30,5 +30,5 @@ $$\frac32*1=\frac32$$
 
 EBM of rational functions:
 $$lim_{x\to\infty}\frac{5-x^2+x^4}{x+7}$$
-$$\frac{lim_{x\to\infty}x^4}{lim_{x\to\infty}x}$$
-$$\frac{\infty}{}
+$$lim_{x\to\infty}\frac{x^4}x$$
+$$lim_{x\to\infty}x^3=\infty$$
