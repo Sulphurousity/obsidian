@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Limits Day 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#homework",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b0fcc9bb7b9f3e77",
+  "active": "7a48825ca06eae3f",
   "lastOpenFiles": [
     "Pre-Calc notes/Scratchpad.md",
     "Calc notes/Limits Day 1.md",
