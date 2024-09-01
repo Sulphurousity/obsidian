@@ -186,16 +186,5 @@ $$D$$
 $$B$$
 $$43$$
 ---
-$$
-\require{enclose}
-\begin{array}{rll}
-    125 && \hbox{(Explanations)} \\[-3pt]
-   4 \enclose{longdiv}{500}\kern-.2ex \\[-3pt]
-      \underline{4\phantom{00}} && \hbox{($4 \times 1 = 4$)} \\[-3pt]
-      10\phantom{0} && \hbox{($5 - 4 = 1$)} \\[-3pt]
-      \underline{\phantom{0}8\phantom{0}} && \hbox{($4 \times 2 = 8$)} \\[-3pt]
-      \phantom{0}20 && \hbox{($10 - 8 = 2$)} \\[-3pt]
-      \underline{\phantom{0}20} && \hbox{($4 \times 5 = 20$)} \\[-3pt]
-      \phantom{00}0
-  \end{array}
+$$\begin{array}{c|rrr} & 1 & -6 & 11 & -6\\ {\color{red}1} & \downarrow & 1 & -5 & 6\\ \hline & 1 & -5 & 6 & |\phantom{-} {0} \end{array}
 $$
