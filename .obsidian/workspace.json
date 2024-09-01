@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Limits Day 1.md",
-                "mode": "preview",
+                "file": "Pre-Calc notes/Scratchpad.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Limits Day 1.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Limits Day 1.md",
+                "file": "Pre-Calc notes/Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Limits Day 1.md"
+                "file": "Pre-Calc notes/Scratchpad.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "7a48825ca06eae3f",
   "lastOpenFiles": [
-    "Pre-Calc notes/Scratchpad.md",
     "Calc notes/Limits Day 1.md",
+    "Pre-Calc notes/Scratchpad.md",
     "Homework/August 24/8-30-2024.md",
     "Homework/August 24/8-29-2024.md",
     "Homework/August 24/8-28-2024.md",
