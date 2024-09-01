@@ -186,5 +186,9 @@ $$D$$
 $$B$$
 $$43$$
 ---
-$$\begin{array}{c|rrr} & 1 & -6 & 11 & -6\\ {\color{red}1} & \downarrow & 1 & -5 & 6\\ \hline & 1 & -5 & 6 & |\phantom{-} {0} \end{array}
+$$\begin{array}{c|rrr} 
+& 1 & -1 & -5 & -3\\ 
+3 & \downarrow & 1 & 0 & 6\\ 
+\hline & 1 & 0 & -5 & |\phantom{-} {0} 
+\end{array}
 $$
