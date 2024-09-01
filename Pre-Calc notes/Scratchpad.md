@@ -188,7 +188,7 @@ $$43$$
 ---
 $$\begin{array}{c|rrr} 
 & 1 & -1 & -5 & -3\\ 
-3 & \downarrow & 3 & -6 & -33\\ 
-\hline & 1 & -2 & -11 & |\phantom{-} {-36} 
+3 & \downarrow & 3 & 6 & 3\\ 
+\hline & 1 & 2 & 1 & |\phantom{-} {0} 
 \end{array}
 $$

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03fb7be126abcbb0",
+        "id": "0db3099ec1bec97f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a48825ca06eae3f",
+            "id": "8f023f8d6c253cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,10 +160,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7a48825ca06eae3f",
+  "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
-    "Calc notes/Limits Day 1.md",
     "Pre-Calc notes/Scratchpad.md",
+    "Calc notes/Limits Day 1.md",
     "Homework/August 24/8-30-2024.md",
     "Homework/August 24/8-29-2024.md",
     "Homework/August 24/8-28-2024.md",
