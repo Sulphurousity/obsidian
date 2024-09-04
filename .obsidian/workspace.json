@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Assets/\" ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,6 +163,8 @@
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
     "Calc notes/Derivative rules.md",
+    "Excalidraw/Drawing 2024-09-04 19.35.09.excalidraw.md",
+    "Homework/September 24/9-4-2024.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/Limits.md",
     "CSA notes/CSA 12-14.md",
@@ -179,7 +181,6 @@
     "Homework/March 24/3-4-2024.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Power Rule.md",
-    "Homework/September 24/9-4-2024.md",
     "Untitled.canvas",
     "Untitled.md",
     "Drawing 2024-09-04 00.39.25.excalidraw.md",
@@ -192,7 +193,6 @@
     "Homework/June 24/6-3-2024.md",
     "Homework/June 24/6-6-2024.md",
     "Homework/June 24/6-11-2024.md",
-    "Homework/June 24/6-12-2024.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
