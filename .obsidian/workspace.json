@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-3-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-3-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-3-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/September 24/9-3-2024.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
+    "Calc notes/Scratchpad.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/Limits.md",
-    "Calc notes/Scratchpad.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Power Rule.md",
     "Homework/September 24/9-4-2024.md",
