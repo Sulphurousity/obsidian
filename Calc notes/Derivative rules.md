@@ -10,4 +10,6 @@ $${dy\over dx}=(x^{-2}+3)(9x^2-1)+(-2x^{-3})(3x^3-x)$$
 
 Quotient Rule:
 If:
-$$
+$$y={f(x)\over g(x)}$$
+Then:
+$${dy\over dx}={g(x)*f'(x)-f(x)*g'(x)\over (g(x))^2}$$
