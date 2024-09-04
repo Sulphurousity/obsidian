@@ -4,50 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f5da6ff6005ffeeb",
+        "id": "32732ba341c64f01",
         "type": "tabs",
         "children": [
           {
-            "id": "e01e3b80891d5615",
+            "id": "5dd38d669b2b6c17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Homework/April 24/4-2-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be676e8a415e2cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/April 24/4-12-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d36016997b5e7c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/June 24/6-9-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Recording 20240904001422.m4a"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Homework/June 24/6-9-2024.md",
+            "file": "Recording 20240904001422.m4a",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Homework/June 24/6-9-2024.md",
+            "file": "Recording 20240904001422.m4a",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Homework/June 24/6-9-2024.md"
+            "file": "Recording 20240904001422.m4a"
           }
         }
       },
@@ -171,8 +141,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d36016997b5e7c7f",
+  "active": "5dd38d669b2b6c17",
   "lastOpenFiles": [
+    "Recording 20240904001422.m4a",
+    "Homework/April 24/4-2-2024.md",
+    "Homework/April 24/4-12-2024.md",
+    "Untitled.canvas",
+    "Homework/September 24/9-4-2024.md",
+    "Pre-Calc notes/Scratchpad.md",
+    "Homework/September 24/9-3-2024.md",
+    "Homework/June 24/6-9-2024.md",
+    "Calc notes",
+    "Calc notes/Limits.md",
+    "Homework/September 24",
+    "Calc notes/Limits using Def of Der.md",
+    "Homework/August 24/8-28-2024.md",
+    "Homework/August 24/8-29-2024.md",
+    "Homework/August 24/8-30-2024.md",
+    "Homework/August 24",
     "/Pre-Calc notes/Scratchpad.md",
     "/Homework/September 24/9-3-2024.md",
     "/Homework/August 24/8-30-2024.md",
@@ -190,34 +176,19 @@
     "/Homework/June 24/6-12-2024.md",
     "/Homework/June 24/6-11-2024.md",
     "Homework/June 24/6-6-2024.md",
-    "Homework/June 24/6-9-2024.md",
-    "/Homework/June 24/6-9-2024.md",
-    "Pre-Calc notes/Scratchpad.md",
-    "Homework/June 24/6-5-2024.md",
-    "/Homework/June 24/6-6-2024.md",
-    "/Homework/June 24/6-5-2024.md",
-    "/Homework/June 24/6-4-2024.md",
-    "/Homework/June 24/6-3-2024.md",
-    "Homework/June 24/6-4-2024.md",
-    "Homework/May 24/5-30-2024.md",
-    "Homework/June 24/6-3-2024.md",
     "Homework/June 24",
     "/Homework/June 24",
-    "Homework/May 24/5-31-2024.md",
     "Homework/child po/child po two electric boogaloo.png",
     "Homework/child po/white child po.png",
     "Homework/child po/yash.png",
     "Homework/child po/vulnerable child po.png",
     "Homework/May 24",
     "/Homework/May 24",
-    "Excalidraw",
-    "Pre-Calc notes",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
     "Homework/child po/hungry child po.png",
     "Homework/child po/chinese child po.png",
-    "Homework/February 24",
     "Homework/child po/child po in a bucket.png"
   ]
 }
