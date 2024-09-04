@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Derivative rules.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b6bf5acef4bc2abc",
+  "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
     "Calc notes/Power Rule.md",
     "Calc notes/Derivative rules.md",
