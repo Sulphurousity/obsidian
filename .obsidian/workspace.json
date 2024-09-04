@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Power Rule.md",
+                "file": "Calc notes/Derivative rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Power Rule.md",
+                "file": "Calc notes/Derivative rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Power Rule.md",
+                "file": "Calc notes/Derivative rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Power Rule.md"
+                "file": "Calc notes/Derivative rules.md"
               }
             }
           }
@@ -160,16 +160,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
-    "Calc notes/Product Rule.md",
     "Calc notes/Power Rule.md",
+    "Calc notes/Derivative rules.md",
+    "Homework/September 24/9-4-2024.md",
+    "Homework/September 24/9-3-2024.md",
     "Untitled.canvas",
     "Untitled.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
-    "Homework/September 24/9-3-2024.md",
-    "Homework/September 24/9-4-2024.md",
     "Drawing 2024-09-04 00.39.25.excalidraw.md",
     "Homework/August 24/8-28-2024.md",
     "Homework/August 24/8-29-2024.md",
