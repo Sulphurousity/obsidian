@@ -11,13 +11,29 @@
             "id": "5dd38d669b2b6c17",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "canvas",
               "state": {
-                "file": "Recording 20240904001422.m4a"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 222,
+                  "y": 441,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "c03843ea9843dd7f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-09-04 00.39.25.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recording 20240904001422.m4a",
+            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recording 20240904001422.m4a",
+            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recording 20240904001422.m4a"
+            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md"
           }
         }
       },
@@ -141,12 +157,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5dd38d669b2b6c17",
+  "active": "c03843ea9843dd7f",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Drawing 2024-09-04 00.39.25.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-09-04 00.25.51.excalidraw.md",
     "Recording 20240904001422.m4a",
     "Homework/April 24/4-2-2024.md",
     "Homework/April 24/4-12-2024.md",
-    "Untitled.canvas",
     "Homework/September 24/9-4-2024.md",
     "Pre-Calc notes/Scratchpad.md",
     "Homework/September 24/9-3-2024.md",
@@ -173,9 +192,6 @@
     "Homework/June 24/6-11-2024.md",
     "Homework/June 24/6-13-2024.md",
     "/Homework/June 24/6-13-2024.md",
-    "/Homework/June 24/6-12-2024.md",
-    "/Homework/June 24/6-11-2024.md",
-    "Homework/June 24/6-6-2024.md",
     "Homework/June 24",
     "/Homework/June 24",
     "Homework/child po/child po two electric boogaloo.png",
@@ -183,7 +199,6 @@
     "Homework/child po/yash.png",
     "Homework/child po/vulnerable child po.png",
     "Homework/May 24",
-    "/Homework/May 24",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
