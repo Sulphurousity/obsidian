@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8f023f8d6c253cf5",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
     "Calc notes/Power Rule.md",
     "Calc notes/Derivative rules.md",
