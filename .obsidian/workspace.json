@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,12 +160,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b6bf5acef4bc2abc",
+  "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
+    "Calc notes/Product Rule.md",
+    "Calc notes/Power Rule.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Calc notes/Power Rule.md",
-    "Calc notes/Product Rule.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
     "Homework/September 24/9-3-2024.md",
