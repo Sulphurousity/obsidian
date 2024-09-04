@@ -11,9 +11,12 @@
             "id": "8f023f8d6c253cf5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Homework/child po/child po scroll.png"
+                "file": "Calc notes/Limits using Def of Der.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -64,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -103,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/child po/child po scroll.png",
+                "file": "Calc notes/Limits using Def of Der.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/child po/child po scroll.png",
+                "file": "Calc notes/Limits using Def of Der.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/child po/child po scroll.png"
+                "file": "Calc notes/Limits using Def of Der.md"
               }
             }
           }
@@ -157,8 +161,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
+    "Calc notes/Limits.md",
+    "Calc notes/Limits using Def of Der.md",
+    "CSA notes/CSA 12-14.md",
+    "CSA notes/CSA 12-15.md",
+    "Homework/child po/child po scroll.png",
     "Homework/December 23/12-22-2023.md",
     "Homework/January 24/1-31-2024.md",
     "Homework/February 24/2-28-2024.md",
@@ -169,8 +178,6 @@
     "Homework/April 24/4-18-2024.md",
     "Homework/March 24/3-4-2024.md",
     "Calc notes/Scratchpad.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Limits.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Power Rule.md",
     "Homework/September 24/9-4-2024.md",
@@ -187,15 +194,12 @@
     "Homework/June 24/6-6-2024.md",
     "Homework/June 24/6-11-2024.md",
     "Homework/June 24/6-12-2024.md",
-    "Homework/June 24/6-9-2024.md",
-    "Homework/June 24/6-5-2024.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
     "Homework/child po/chinese child po.png",
     "Homework/child po/white child po.png",
     "Homework/May 24",
-    "Homework/child po/child po scroll.png",
     "Calc notes",
     "obsidian",
     "Homework/child po/child po two electric boogaloo.png",
