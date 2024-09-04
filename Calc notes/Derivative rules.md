@@ -1,4 +1,4 @@
-Power Rule:
+	 Power Rule:
 If:
 $$y=ax^n$$
 Then:
