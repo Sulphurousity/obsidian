@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Limits using Def of Der.md",
-                "mode": "preview",
+                "file": "Calc notes/Power Rule.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Limits using Def of Der.md",
+                "file": "Calc notes/Power Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Limits using Def of Der.md",
+                "file": "Calc notes/Power Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Limits using Def of Der.md"
+                "file": "Calc notes/Power Rule.md"
               }
             }
           }
@@ -160,20 +161,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8f023f8d6c253cf5",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "Calc notes/Power Rule.md",
     "Calc notes/Product Rule.md",
+    "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
     "Homework/September 24/9-3-2024.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "Homework/September 24/9-4-2024.md",
     "Drawing 2024-09-04 00.39.25.excalidraw.md",
     "Homework/August 24/8-28-2024.md",
     "Homework/August 24/8-29-2024.md",
     "Homework/August 24/8-30-2024.md",
     "Homework/September 24",
-    "Calc notes/Limits.md",
     "Pre-Calc notes/Scratchpad.md",
     "Calc notes",
     "Homework/August 24/Untitled.md",
@@ -190,8 +192,6 @@
     "Homework/May 24/5-29-2024.md",
     "Homework/May 24/5-30-2024.md",
     "Homework/May 24/5-28-2024.md",
-    "Pre-Calc notes/Untitled.md",
-    "CSA notes/CSA 12-15.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
