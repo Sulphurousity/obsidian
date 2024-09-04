@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-3-2024.md",
-                "mode": "source",
+                "file": "Calc notes/Limits using Def of Der.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-3-2024.md",
+                "file": "Calc notes/Limits using Def of Der.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-3-2024.md",
+                "file": "Calc notes/Limits using Def of Der.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-3-2024.md"
+                "file": "Calc notes/Limits using Def of Der.md"
               }
             }
           }
@@ -162,12 +162,17 @@
   },
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
+    "Calc notes/Product Rule.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Homework/September 24/9-3-2024.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Homework/September 24/9-4-2024.md",
+    "Drawing 2024-09-04 00.39.25.excalidraw.md",
     "Homework/August 24/8-28-2024.md",
     "Homework/August 24/8-29-2024.md",
     "Homework/August 24/8-30-2024.md",
-    "Homework/September 24/9-3-2024.md",
     "Homework/September 24",
-    "Calc notes/Limits using Def of Der.md",
     "Calc notes/Limits.md",
     "Pre-Calc notes/Scratchpad.md",
     "Calc notes",
@@ -187,9 +192,6 @@
     "Homework/May 24/5-28-2024.md",
     "Pre-Calc notes/Untitled.md",
     "CSA notes/CSA 12-15.md",
-    "CSA notes/Array Lists.md",
-    "CSA notes/CSA 12-14.md",
-    "Pre-Calc notes/Trig & Radians.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
@@ -199,7 +201,6 @@
     "Homework/child po/child po scroll.png",
     "Calc notes",
     "obsidian",
-    "Untitled.canvas",
     "Homework/child po/child po two electric boogaloo.png",
     "Homework/child po/po.png",
     "Homework/child po/child po in a bucket.png",
