@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-5-2024.md",
+                "file": "Calc notes/Derivative rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-5-2024.md",
+                "file": "Calc notes/Derivative rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-5-2024.md",
+                "file": "Calc notes/Derivative rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-5-2024.md"
+                "file": "Calc notes/Derivative rules.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
-    "Homework/September 24/9-4-2024.md",
     "Homework/September 24/9-5-2024.md",
+    "Homework/September 24/9-4-2024.md",
     "Calc notes/Derivative rules.md",
     "Excalidraw/Drawing 2024-09-04 19.35.09.excalidraw.md",
     "Calc notes/Limits using Def of Der.md",

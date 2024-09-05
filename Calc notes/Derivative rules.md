@@ -1,4 +1,4 @@
-	 Power Rule:
+Power Rule:
 If:
 $$y=ax^n$$
 Then:
@@ -18,3 +18,7 @@ If:
 $$y={f(x)\over g(x)}$$
 Then:
 $${dy\over dx}={g(x)*f'(x)-f(x)*g'(x)\over (g(x))^2}$$
+
+Chain Rule:
+If:
+$$y=$$
