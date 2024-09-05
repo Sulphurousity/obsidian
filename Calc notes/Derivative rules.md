@@ -21,4 +21,6 @@ $${dy\over dx}={g(x)*f'(x)-f(x)*g'(x)\over (g(x))^2}$$
 
 Chain Rule:
 If:
-$$y=$$
+$$y=f(g(x))$$
+Then:
+$$y=f'(g(x))\cdot g'(x)$$
