@@ -1,5 +1,5 @@
 def of der:
-$$\lim\limits_{h\to0}\frac{f(x+h)-f(x)}h$$
+$$\lim\limits_{h\to0}\frac{f(x+h)-f(x)}x+h-x$$
 
 evaluate:
 $$\lim\limits_{h\to0}\frac{\frac1{x+h}-\frac1h}h$$
