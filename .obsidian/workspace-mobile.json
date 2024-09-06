@@ -11,29 +11,11 @@
             "id": "5dd38d669b2b6c17",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 222,
-                  "y": 441,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "c03843ea9843dd7f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2024-09-04 00.39.25.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Drawing 2024-09-04 00.39.25.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -157,11 +135,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c03843ea9843dd7f",
+  "active": "5dd38d669b2b6c17",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled.canvas",
     "Drawing 2024-09-04 00.39.25.excalidraw.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2024-09-04 00.25.51.excalidraw.md",
     "Recording 20240904001422.m4a",
     "Homework/April 24/4-2-2024.md",
