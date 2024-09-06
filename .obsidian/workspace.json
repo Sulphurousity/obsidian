@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e300c8936fbe9e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/September 24/9-6-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -160,10 +174,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8f023f8d6c253cf5",
+  "active": "e300c8936fbe9e87",
   "lastOpenFiles": [
     "Homework/September 24/9-5-2024.md",
     "Homework/September 24/9-6-2024.md",
+    "Homework/child po/infant po.md",
     "Homework/September 24/9-4-2024.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
@@ -192,7 +207,6 @@
     "Calc notes",
     "Homework/August 24/Untitled.md",
     "Homework/August 24",
-    "Homework/June 24/6-3-2024.md",
     "Homework/June 24",
     "Homework/child po/child po.canvas",
     "Homework/child po/crawling child po.png",
