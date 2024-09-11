@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-10-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e300c8936fbe9e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calc notes/Limits using Def of Der.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-10-2024.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-10-2024.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-10-2024.md"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
@@ -175,16 +162,16 @@
   },
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Limits.md",
+    "Homework/September 24/9-10-2024.md",
     "Homework/September 24/9-5-2024.md",
     "Homework/September 24/9-6-2024.md",
-    "Homework/September 24/9-10-2024.md",
     "9-9-2024.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/Pasted image 20240910110300.png",
     "Assets/Pasted image 20240910105133.png",
     "Calc notes/Derivative rules.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Limits.md",
     "Calc notes/Scratchpad.md",
     "Homework/child po/infant po.md",
     "Homework/September 24/9-4-2024.md",
