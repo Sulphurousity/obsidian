@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
-                "mode": "source",
+                "file": "Homework/September 24/9-11-2024.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Homework/September 24/9-11-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Homework/September 24/9-11-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md"
+                "file": "Homework/September 24/9-11-2024.md"
               }
             }
           }
@@ -162,12 +162,14 @@
   },
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Limits.md",
     "Homework/September 24/9-10-2024.md",
-    "Homework/September 24/9-5-2024.md",
     "Homework/September 24/9-6-2024.md",
+    "Homework/September 24/9-11-2024.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Limits.md",
+    "Homework/September 24/9-5-2024.md",
     "9-9-2024.md",
     "Assets/Pasted image 20240910110300.png",
     "Assets/Pasted image 20240910105133.png",
@@ -190,8 +192,6 @@
     "Homework/March 24/3-4-2024.md",
     "Calc notes/Power Rule.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "Drawing 2024-09-04 00.39.25.excalidraw.md",
     "Homework/September 24",
     "Calc notes",
     "Homework/August 24",
