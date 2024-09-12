@@ -1,9 +1,9 @@
 def of der:
-$$\lim\limits_{h\to0}\frac{f(x+h)-f(x)}h$$
+$$\lim\limits_{h\to0}\frac{f(x+h)-f(x)}x+h-x$$
 
 evaluate:
 $$\lim\limits_{h\to0}\frac{\frac1{x+h}-\frac1h}h$$
-$$\lim\limits_{h\to0}\frac{\frac1{x+h}-\frac1h}h=1$$
+$$\lim_{h\to0}\frac{\frac1{x+h}-\frac1h}h=1$$
 
 def of slope at $a$:
 $$\lim\limits_{h\to a}\frac{f(x)-f(a)}{x-a}$$
