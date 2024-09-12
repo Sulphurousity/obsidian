@@ -11,8 +11,13 @@
             "id": "5dd38d669b2b6c17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Homework/September 24/9-4-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Homework/September 24/9-4-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Homework/September 24/9-4-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Homework/September 24/9-4-2024.md"
+          }
         }
       },
       {
@@ -135,8 +144,32 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5dd38d669b2b6c17",
+  "active": "52063d262b6569ae",
   "lastOpenFiles": [
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Scratchpad.md",
+    "Homework/September 24/9-11-2024.md",
+    "Homework/September 24/9-10-2024.md",
+    "Homework/September 24/9-5-2024.md",
+    "Homework/September 24/9-6-2024.md",
+    "Assets/Pasted image 20240910105133.png",
+    "Assets/Pasted image 20240910110300.png",
+    "Assets",
+    "/Homework/September 24/9-6-2024.md",
+    "/Homework/September 24/9-5-2024.md",
+    "/Homework/September 24/9-4-2024.md",
+    "/Homework/September 24/9-11-2024.md",
+    "/Homework/September 24/9-10-2024.md",
+    "/Calc notes/Limits using Def of Der.md",
+    "/Calc notes/Derivative rules.md",
+    "/Calc notes/Non-Traditional Composition Limits.md",
+    "/Assets/Pasted image 20240910110300.png",
+    "/Assets/Pasted image 20240910105133.png",
+    "/Calc notes/Scratchpad.md",
+    "/Calc notes/Squeeze Theorem.md",
+    "/Assets",
     "Untitled.md",
     "Untitled.canvas",
     "Drawing 2024-09-04 00.39.25.excalidraw.md",
@@ -147,41 +180,19 @@
     "Homework/September 24/9-4-2024.md",
     "Pre-Calc notes/Scratchpad.md",
     "Homework/September 24/9-3-2024.md",
-    "Homework/June 24/6-9-2024.md",
     "Calc notes",
-    "Calc notes/Limits.md",
     "Homework/September 24",
-    "Calc notes/Limits using Def of Der.md",
-    "Homework/August 24/8-28-2024.md",
-    "Homework/August 24/8-29-2024.md",
-    "Homework/August 24/8-30-2024.md",
     "Homework/August 24",
-    "/Pre-Calc notes/Scratchpad.md",
-    "/Homework/September 24/9-3-2024.md",
-    "/Homework/August 24/8-30-2024.md",
-    "/Homework/August 24/8-29-2024.md",
-    "/Homework/August 24/8-28-2024.md",
-    "/Calc notes/Limits.md",
-    "/Calc notes/Limits using Def of Der.md",
     "/Homework/September 24",
     "/Homework/August 24",
     "/Calc notes",
-    "Homework/June 24/6-12-2024.md",
-    "Homework/June 24/6-11-2024.md",
-    "Homework/June 24/6-13-2024.md",
-    "/Homework/June 24/6-13-2024.md",
     "Homework/June 24",
-    "/Homework/June 24",
     "Homework/child po/child po two electric boogaloo.png",
     "Homework/child po/white child po.png",
     "Homework/child po/yash.png",
     "Homework/child po/vulnerable child po.png",
-    "Homework/May 24",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po.canvas",
-    "Homework/child po/crawling child po.png",
-    "Homework/child po/hungry child po.png",
-    "Homework/child po/chinese child po.png",
-    "Homework/child po/child po in a bucket.png"
+    "Homework/child po/crawling child po.png"
   ]
 }
