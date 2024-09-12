@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-11-2024.md",
-                "mode": "preview",
+                "file": "Homework/September 24/9-6-2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-11-2024.md",
+                "file": "Homework/September 24/9-6-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-11-2024.md",
+                "file": "Homework/September 24/9-6-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-11-2024.md"
+                "file": "Homework/September 24/9-6-2024.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   "active": "8f023f8d6c253cf5",
   "lastOpenFiles": [
     "Homework/September 24/9-10-2024.md",
-    "Homework/September 24/9-6-2024.md",
     "Homework/September 24/9-11-2024.md",
+    "Homework/September 24/9-6-2024.md",
     "Calc notes/Squeeze Theorem.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Limits using Def of Der.md",
