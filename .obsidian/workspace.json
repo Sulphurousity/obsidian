@@ -11,9 +11,12 @@
             "id": "c4e117327b713c94",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md"
+                "file": "Calc notes/Scratchpad.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
+                "file": "Calc notes/Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
+                "file": "Calc notes/Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md"
+                "file": "Calc notes/Scratchpad.md"
               }
             }
           }
@@ -159,10 +162,13 @@
   },
   "active": "c4e117327b713c94",
   "lastOpenFiles": [
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Limits.md",
+    "Calc notes/Scratchpad.md",
     "Assets/IVT Practice.pdf",
+    "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
     "Assets/ExtraIVT(2)..pdf",
     "Assets/ExtraIVT(2). (1).pdf",
-    "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
     "Homework/September 24/9-13-2024.md",
     "Assets/Practice with Diff so Far.pdf",
     "Assets/IVTlim,cont,practice.pdf",
@@ -181,9 +187,6 @@
     "Untitled.md",
     "Homework/September 24/9-14-2024.md",
     "Homework/September 24/9-12-2024.md",
-    "Calc notes/Scratchpad.md",
-    "Calc notes/Limits.md",
-    "Calc notes/Limits using Def of Der.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Squeeze Theorem.md",
