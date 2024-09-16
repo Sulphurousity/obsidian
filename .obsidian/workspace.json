@@ -8,27 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5cc4a93acf2aa16",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/ExtraIVT(2). (1).pdf"
-              }
-            }
-          },
-          {
             "id": "c4e117327b713c94",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Assets/ExtraIVT(2). (1).pdf"
+                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/ExtraIVT(2). (1).pdf",
+                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/ExtraIVT(2). (1).pdf",
+                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/ExtraIVT(2). (1).pdf"
+                "file": "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md"
               }
             }
           }
@@ -168,17 +157,17 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "c4e117327b713c94",
   "lastOpenFiles": [
     "Assets/IVT Practice.pdf",
+    "Assets/ExtraIVT(2)..pdf",
+    "Assets/ExtraIVT(2). (1).pdf",
     "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
     "Homework/September 24/9-13-2024.md",
     "Assets/Practice with Diff so Far.pdf",
-    "Assets/ExtraIVT(2). (1).pdf",
     "Assets/IVTlim,cont,practice.pdf",
     "Calc notes/IVT.md",
     "Assets/Limits and Continuity1..pdf",
-    "Assets/ExtraIVT(2)..pdf",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/Pasted image 20240910105133.png",
     "Assets/Pasted image 20240910110300.png",
