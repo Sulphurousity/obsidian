@@ -192,3 +192,7 @@ $$\begin{array}{c|rrr}
 \hline & 1 & 2 & 1 & |\phantom{-} {0} 
 \end{array}
 $$
+---
+$$\frac{\sqrt2}{2}-1\over\frac{\sqrt2}{2}$$
+$$(\frac{\sqrt2}{2}-1)\frac{2}{\sqrt2}$$
+	$$\frac{2\sqrt2}{2(\sqrt2)}-\frac{2}{\sqrt2}$$
