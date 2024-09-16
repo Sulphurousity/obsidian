@@ -156,8 +156,7 @@
       "audio-recorder:Start/stop recording": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "custom-sort:Toggle custom sorting": false,
-      "handwritten-notes:Create empty handwritten note": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "c4e117327b713c94",
