@@ -11,12 +11,9 @@
             "id": "c4e117327b713c94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Homework/September 24/9-16-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Assets/IVT Practice.pdf"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-16-2024.md",
+                "file": "Assets/IVT Practice.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-16-2024.md",
+                "file": "Assets/IVT Practice.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-16-2024.md"
+                "file": "Assets/IVT Practice.pdf"
               }
             }
           }
@@ -161,12 +158,15 @@
   },
   "active": "c4e117327b713c94",
   "lastOpenFiles": [
-    "Calc notes/Scratchpad.md",
-    "Homework/September 24/9-16-2024.md",
-    "Homework/September 24/9-13-2024.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Derivative rules.md",
     "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Limits.md",
+    "Calc notes/Squeeze Theorem.md",
     "Assets/IVT Practice.pdf",
+    "Homework/September 24/9-16-2024.md",
+    "Calc notes/Scratchpad.md",
+    "Homework/September 24/9-13-2024.md",
+    "Calc notes/Limits.md",
     "Excalidraw/Drawing 2024-09-16 00.14.13.excalidraw.md",
     "Assets/ExtraIVT(2)..pdf",
     "Assets/ExtraIVT(2). (1).pdf",
@@ -186,9 +186,6 @@
     "Untitled.md",
     "Homework/September 24/9-14-2024.md",
     "Homework/September 24/9-12-2024.md",
-    "Calc notes/Derivative rules.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Squeeze Theorem.md",
     "Homework/September 24/9-11-2024.md",
     "Homework/September 24/9-6-2024.md",
     "Homework/September 24/9-10-2024.md",
