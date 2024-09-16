@@ -197,4 +197,10 @@ $$\frac{\sqrt2}{2}-1\over\frac{\sqrt2}{2}$$
 $$(\frac{\sqrt2}{2}-1)\frac{2}{\sqrt2}$$
 $$\frac{2\sqrt2}{2(\sqrt2)}-\frac{2}{\sqrt2}$$
 ---
-$$$$
+$\lim_{n\to23}$
+$$
+\begin{}
+
+\end{}
+$$
+$sd/2$
