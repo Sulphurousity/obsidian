@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
-                "mode": "source",
+                "file": "Homework/September 24/9-16-2024.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-16-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-16-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/September 24/9-16-2024.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "27ac2e63304f7550",
   "lastOpenFiles": [
+    "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
     "Assets/IVT Practice.pdf",
-    "Calc notes/Scratchpad.md",
     "Excalidraw/Drawing 2024-09-16 19.28.36.excalidraw.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Squeeze Theorem.md",
