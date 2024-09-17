@@ -194,8 +194,13 @@ $$\begin{array}{c|rrr}
 $$
 ---
 $$\frac{\sqrt2}{2}-1\over\frac{\sqrt2}{2}$$
-$$(\frac{\sqrt2}{2}-1)\frac{2}{\sqrt2}$$
+$$\left( \frac{\sqrt2}{2}-1 \right)\frac{2}{\sqrt2}$$
 $$\frac{2\sqrt2}{2(\sqrt2)}-\frac{2}{\sqrt2}$$
 ---
-$$f(x)$$
-$$h'(x)=f(x)g'(x) \cdot g(x)f'(x)$$
+$$f(x)=\frac{1}{2}x+2$$
+$$g(x)=-2x+5$$
+$$f'(x)=\frac{1}{2}$$
+$$g'(x)=-2$$
+$$h'(x)=\frac{1}{2}x+2(-2) + (-2x+5)\frac{1}{2}$$
+$$h'(x)=-x-4 + -x+\frac{5}{2}$$
+$$h'(x)=-2x-\frac{1}{2}$$
