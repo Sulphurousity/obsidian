@@ -197,4 +197,5 @@ $$\frac{\sqrt2}{2}-1\over\frac{\sqrt2}{2}$$
 $$(\frac{\sqrt2}{2}-1)\frac{2}{\sqrt2}$$
 $$\frac{2\sqrt2}{2(\sqrt2)}-\frac{2}{\sqrt2}$$
 ---
-$$$$
+$$f(x)=\frac{}{}$$
+$$h'(x)=f(x)g'(x) \cdot g(x)f'(x)$$
