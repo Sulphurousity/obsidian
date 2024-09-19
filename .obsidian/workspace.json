@@ -29,6 +29,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "88ca3041ffc70a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f35cb32f4e2cce5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/cropped_Parametric Equations.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+                "file": "Assets/cropped_Parametric Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+                "file": "Assets/cropped_Parametric Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md"
+                "file": "Assets/cropped_Parametric Equations.md"
               }
             }
           }
@@ -167,10 +183,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a2fd32aed0825908",
+  "active": "6f35cb32f4e2cce5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-16 19.28.36.excalidraw.md",
     "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+    "Assets/cropped_Parametric Equations.md",
+    "Excalidraw/Drawing 2024-09-16 19.28.36.excalidraw.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Homework/September 24/9-16-2024.md",
     "Assets/Parametric Equations.pdf",
@@ -206,7 +223,6 @@
     "9-9-2024.md",
     "Homework/child po/infant po.md",
     "Homework/September 24/9-4-2024.md",
-    "Homework/September 24/9-3-2024.md",
     "Homework/child po/child po scroll.png",
     "Untitled.canvas",
     "Homework/child po/child po.canvas",
