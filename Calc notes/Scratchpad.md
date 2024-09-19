@@ -209,3 +209,6 @@ $$\large 5x\sqrt{ x^2+1 }$$
 $$\large 5x( x^2+1 )^{ \frac{1}2 }$$
 $$\large (2x)( x^2+1 )^{ -\frac{1}2 }$$
 $$\large \frac{2x}{\sqrt{ x^2+1 }}$$
+---
+$$\large y=\frac{{2x+3}}{3x-2}$$
+$$\large y=$$
