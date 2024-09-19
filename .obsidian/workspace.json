@@ -26,19 +26,25 @@
                 "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2008341e2fbc3892",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6f35cb32f4e2cce5",
+            "id": "fa1f7f5daa48e125",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Assets/cropped_Parametric Equations.md"
+                "file": "Assets/cropped_Parametric Equations_1.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+                "file": "Assets/cropped_Parametric Equations_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+                "file": "Assets/cropped_Parametric Equations_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md"
+                "file": "Assets/cropped_Parametric Equations_1.md"
               }
             }
           }
@@ -177,14 +183,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a2fd32aed0825908",
+  "active": "fa1f7f5daa48e125",
   "lastOpenFiles": [
-    "Assets/cropped_Parametric Equations.md",
+    "Assets/Parametric Equations.pdf",
+    "Assets/cropped_Parametric Equations_1.md",
     "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
+    "Assets/cropped_Parametric Equations_0.md",
+    "Assets/cropped_Parametric Equations.md",
     "Excalidraw/Drawing 2024-09-16 19.28.36.excalidraw.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Homework/September 24/9-16-2024.md",
-    "Assets/Parametric Equations.pdf",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
     "Assets/IVT Practice.pdf",
@@ -214,9 +222,6 @@
     "Homework/September 24/9-6-2024.md",
     "Homework/September 24/9-10-2024.md",
     "Homework/September 24/9-5-2024.md",
-    "9-9-2024.md",
-    "Homework/child po/infant po.md",
-    "Homework/September 24/9-4-2024.md",
     "Homework/child po/child po scroll.png",
     "Untitled.canvas",
     "Homework/child po/child po.canvas",
