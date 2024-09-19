@@ -11,9 +11,12 @@
             "id": "94a2d05f2a61fa6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Answer key on Parametric Equations and Calculus.pdf"
+                "file": "Homework/September 24/9-18-2024.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Answer key on Parametric Equations and Calculus.pdf",
+                "file": "Homework/September 24/9-18-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Answer key on Parametric Equations and Calculus.pdf",
+                "file": "Homework/September 24/9-18-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Answer key on Parametric Equations and Calculus.pdf"
+                "file": "Homework/September 24/9-18-2024.md"
               }
             }
           }
@@ -158,18 +161,19 @@
   },
   "active": "94a2d05f2a61fa6e",
   "lastOpenFiles": [
+    "Homework/September 24/9-16-2024.md",
+    "Homework/September 24/9-18-2024.md",
+    "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
     "Assets/Parametric Equations.pdf",
     "Calc notes/Derivative rules.md",
     "Excalidraw/Drawing 2024-09-16 19.28.36.excalidraw.md",
     "Calc notes/Non-Traditional Composition Limits.md",
-    "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/IVT Practice.pdf",
     "Assets/cropped_Parametric Equations.md",
     "Excalidraw/Drawing 2024-09-18 10.35.38.excalidraw.md",
     "Assets/cropped_Parametric Equations_1.md",
     "Assets/cropped_Parametric Equations_0.md",
-    "Homework/September 24/9-16-2024.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
     "Calc notes/Squeeze Theorem.md",
