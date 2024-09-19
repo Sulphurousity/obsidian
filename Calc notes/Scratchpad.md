@@ -216,3 +216,4 @@ $$\large y=\frac{-6x-7}{3x-2}$$
 $$\large y=\frac{-6(1)-7}{3(1)-2}$$
 $$\large y=\frac{-13}{1}$$
 $$\large y-5=-13(x-1)$$
+$$\large y=-13x+18$$
