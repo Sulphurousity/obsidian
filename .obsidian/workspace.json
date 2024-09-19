@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94a2d05f2a61fa6e",
+            "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-18-2024.md",
-                "mode": "preview",
+                "file": "Calc notes/Implicit Differentiation.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-18-2024.md",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-18-2024.md",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-18-2024.md"
+                "file": "Calc notes/Implicit Differentiation.md"
               }
             }
           }
@@ -159,16 +159,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "94a2d05f2a61fa6e",
+  "active": "edb77d961e84193c",
   "lastOpenFiles": [
-    "Calc notes/Scratchpad.md",
-    "Calc notes/Derivative rules.md",
-    "Calc notes/Limits.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Squeeze Theorem.md",
+    "Homework/September 24/9-18-2024.md",
+    "Calc notes/Implicit Differentiation.md",
+    "Calc notes/Parametric Functions.md",
+    "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
     "Calc notes/Non-Traditional Composition Limits.md",
-    "Homework/September 24/9-18-2024.md",
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Scratchpad.md",
+    "Calc notes/Limits.md",
+    "Calc notes/Limits using Def of Der.md",
     "Homework/September 24/9-16-2024.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
@@ -193,12 +196,9 @@
     "Assets/Drawing 2024-09-16 00.03.42.excalidraw.md",
     "Homework/Drawing 2024-09-16 00.02.11.excalidraw.md",
     "Excalidraw/awd.md",
-    "Untitled.md",
     "Homework/September 24/9-14-2024.md",
     "Homework/September 24/9-12-2024.md",
     "Homework/September 24/9-11-2024.md",
-    "Homework/September 24/9-6-2024.md",
-    "Homework/September 24/9-10-2024.md",
     "Homework/child po/child po scroll.png",
     "Untitled.canvas",
     "Homework/child po/child po.canvas",
