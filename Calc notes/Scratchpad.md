@@ -204,3 +204,10 @@ $$g'(x)=-2$$
 $$h'(x)=\frac{1}{2}x+2(-2) + (-2x+5)\frac{1}{2}$$
 $$h'(x)=-x-4 + -x+\frac{5}{2}$$
 $$\large h'(x)=-2x-\frac{1}{2}$$
+---
+$$\large 5x\sqrt{ x^2+1 }$$
+$$\large 5x( x^2+1 )^{ \frac{1}2 }$$
+$$\large \frac{5}{2}x( x^2+1 )^{ -\frac{1}2 }(2x)$$
+$$\large 5x^2 \frac{1}{\sqrt{ x^2+1 }}$$
+$$\large 5(3)^2\frac{1}{\sqrt{ (3)^2+1 }}$$
+$$\large 45 \frac{1}{\sqrt{ 10 }}$$
