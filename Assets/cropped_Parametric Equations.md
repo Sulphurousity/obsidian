@@ -15,7 +15,8 @@ excalidraw-plugin: parsed
 
 
 # Embedded files
-7a4346427f98d6e89a61af007fd36181616874dc: [[Assets/Parametric Equations.pdf#page=5]]
+7a4346427f98d6e89a61af007fd36181616874dc: [[Parametric Equations.pdf#page=5]]
+
 %%
 # Drawing
 ```json
@@ -26,8 +27,8 @@ excalidraw-plugin: parsed
 	"elements": [
 		{
 			"type": "image",
-			"version": 1969,
-			"versionNonce": 205891305,
+			"version": 2199,
+			"versionNonce": 161604714,
 			"isDeleted": false,
 			"id": "kBeNdD9f",
 			"fillStyle": "hachure",
@@ -36,8 +37,8 @@ excalidraw-plugin: parsed
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 0,
-			"y": 0,
+			"x": 255.60302734375,
+			"y": -324.9818420410156,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 2380,
@@ -51,7 +52,7 @@ excalidraw-plugin: parsed
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1726711014635,
+			"updated": 1726711033298,
 			"link": "[[Assets/Parametric Equations.pdf#page=5]]",
 			"locked": true,
 			"status": "pending",
@@ -62,31 +63,39 @@ excalidraw-plugin: parsed
 			]
 		},
 		{
-			"id": "7bF1HKkn",
 			"type": "frame",
-			"x": 0,
-			"y": 0,
-			"width": 2380,
-			"height": 3368,
-			"angle": 0,
-			"strokeColor": "#000",
-			"backgroundColor": "transparent",
+			"version": 497,
+			"versionNonce": 223390122,
+			"isDeleted": false,
+			"id": "7bF1HKkn",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"roundness": null,
+			"angle": 0,
+			"x": 471.0406494140625,
+			"y": 544.0711975097656,
+			"strokeColor": "#000",
+			"backgroundColor": "transparent",
+			"width": 1583.9764404296873,
+			"height": 410.29827880859375,
 			"seed": 43817,
-			"version": 1,
-			"versionNonce": 345000399,
-			"updated": 1726711014642,
-			"isDeleted": false,
 			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
+			"updated": 1726711033298,
 			"link": "[[Assets/Parametric Equations.pdf#page=5]]",
 			"locked": false,
-			"name": "Adjust frame to crop image. Add elements for mask: White shows, Black hides."
+			"name": "Adjust frame to crop image. Add elements for mask: White shows, Black hides.",
+			"customData": {
+				"frameColor": {
+					"stroke": "#888888",
+					"fill": "#AFAFAF",
+					"nameColor": "#E2E2E2"
+				}
+			}
 		}
 	],
 	"appState": {
@@ -104,8 +113,25 @@ excalidraw-plugin: parsed
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
+		"scrollX": -374.944065638951,
+		"scrollY": -54.64784458705367,
+		"zoom": {
+			"value": 0.7000000000000001
+		},
 		"currentItemRoundness": "sharp",
-		"gridSize": 0
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#939393FF",
+			"Regular": "#6F6F6FFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }
