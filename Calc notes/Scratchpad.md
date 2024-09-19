@@ -211,4 +211,5 @@ $$\large (2x)( x^2+1 )^{ -\frac{1}2 }$$
 $$\large \frac{2x}{\sqrt{ x^2+1 }}$$
 ---
 $$\large y=\frac{{2x+3}}{3x-2}$$
-$$\large y=$$
+$$\large y=\frac{(3x-2)(2)-(2x+3)(3)}{(3x-2)^2}$$
+$$\large y=\frac{2-6x-7}{3x-2}$$
