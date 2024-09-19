@@ -24,5 +24,13 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
