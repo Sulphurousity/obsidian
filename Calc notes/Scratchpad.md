@@ -212,4 +212,7 @@ $$\large \frac{2x}{\sqrt{ x^2+1 }}$$
 ---
 $$\large y=\frac{{2x+3}}{3x-2}$$
 $$\large y=\frac{(3x-2)(2)-(2x+3)(3)}{(3x-2)^2}$$
-$$\large y=\frac{2-6x-7}{3x-2}$$
+$$\large y=\frac{-6x-7}{3x-2}$$
+$$\large y=\frac{-6(1)-7}{3(1)-2}$$
+$$\large y=\frac{-13}{1}$$
+$$\large y-5=-13(x-1)$$
