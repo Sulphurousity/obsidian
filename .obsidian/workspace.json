@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
-                "mode": "preview",
+                "file": "Homework/September 24/9-18-2024.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-18-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-18-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/September 24/9-18-2024.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "94a2d05f2a61fa6e",
   "lastOpenFiles": [
-    "Calc notes/Derivative rules.md",
     "Calc notes/Scratchpad.md",
+    "Calc notes/Derivative rules.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/Squeeze Theorem.md",
