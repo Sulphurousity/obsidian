@@ -207,7 +207,5 @@ $$\large h'(x)=-2x-\frac{1}{2}$$
 ---
 $$\large 5x\sqrt{ x^2+1 }$$
 $$\large 5x( x^2+1 )^{ \frac{1}2 }$$
-$$\large \frac{5}{2}x( x^2+1 )^{ -\frac{1}2 }(2x)$$
-$$\large 5x^2 \frac{1}{\sqrt{ x^2+1 }}$$
-$$\large 5(3)^2\frac{1}{\sqrt{ (3)^2+1 }}$$
-$$\large 45 \frac{1}{\sqrt{ 10 }}$$
+$$\large (2x)( x^2+1 )^{ -\frac{1}2 }$$
+$$\large \frac{2x}{\sqrt{ x^2+1 }}$$
