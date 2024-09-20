@@ -16,19 +16,8 @@
                 "file": "Excalidraw/CC Livret Packet.md"
               }
             }
-          },
-          {
-            "id": "663cdbcb4c950ebf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
+                "file": "Excalidraw/CC Livret Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
+                "file": "Excalidraw/CC Livret Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md"
+                "file": "Excalidraw/CC Livret Packet.md"
               }
             }
           }
@@ -167,10 +156,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "663cdbcb4c950ebf",
+  "active": "edb77d961e84193c",
   "lastOpenFiles": [
-    "Assets/implicit1.pdf",
     "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
+    "Assets/implicit1.pdf",
     "Assets/implicitdiffpractice2.pdf",
     "Excalidraw/CC Livret Packet.md",
     "Homework/September 24/9-19-2024.md",
