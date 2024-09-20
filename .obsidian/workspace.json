@@ -11,9 +11,12 @@
             "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md"
+                "file": "Homework/September 24/9-19-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
+                "file": "Homework/September 24/9-19-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
+                "file": "Homework/September 24/9-19-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md"
+                "file": "Homework/September 24/9-19-2024.md"
               }
             }
           }
@@ -158,8 +161,8 @@
   },
   "active": "edb77d961e84193c",
   "lastOpenFiles": [
+    "Excalidraw/CC Livret Packet.md",
     "Homework/September 24/9-19-2024.md",
-    "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
     "Assets/CC Livret Packet.pdf",
     "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
     "Untitled.md",
