@@ -49,4 +49,8 @@ $$\large 3y^2{\frac{dy}{dx}}-18{\frac{dy}{dx}}=18y-3x^2$$
 $$\large \frac{dy}{dx}(3x^2-18)=18y-3x^2$$
 $$\large \frac{dy}{dx}=\frac{{18-3x^2}}{3x^2-18}$$
 
+Find $\frac{dy}{dx}$ and the tangent line:
 $$\large 2x^{2}+y^{2}=9, (-2,2)$$
+$$\large 4x+2y\frac{dy}{dx}=0$$
+$$\large \frac{dy}{dx}=\frac{-4x}{2y}$$
+$$\large 

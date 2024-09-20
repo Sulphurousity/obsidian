@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
-                "mode": "source",
+                "file": "Calc notes/Implicit Differentiation.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Homework/September 24/9-19-2024.md",
+            "file": "Calc notes/Implicit Differentiation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Homework/September 24/9-19-2024.md",
+            "file": "Calc notes/Implicit Differentiation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Homework/September 24/9-19-2024.md"
+            "file": "Calc notes/Implicit Differentiation.md"
           }
         }
       },
@@ -146,6 +146,9 @@
   },
   "active": "5dd38d669b2b6c17",
   "lastOpenFiles": [
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Scratchpad.md",
+    "Homework/September 24/9-19-2024.md",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/implicit1.pdf",
     "/Calc notes/Implicit Differentiation.md",
@@ -158,7 +161,6 @@
     "Calc notes/Differentiability.md",
     "Calc notes/Implicit Differentiation.md",
     "Excalidraw/CC Livret Packet.md",
-    "Homework/September 24/9-19-2024.md",
     "Assets/IVT Practice.pdf",
     "Assets/Parametric Equations.pdf",
     "Homework/September 24/9-18-2024.md",
@@ -177,11 +179,9 @@
     "/Calc notes/Non-Traditional Composition Limits.md",
     "/Calc notes/Limits.md",
     "/Assets/Parametric Equations.pdf",
-    "/Assets/IVT Practice.pdf",
     "/Calc notes/Parametric Functions.md",
     "/Calc notes/IVT.md",
     "/Calc notes/Differentiability.md",
-    "Homework/September 24/9-11-2024.md",
     "Assets/Pasted image 20240910105133.png",
     "Assets/Pasted image 20240910110300.png",
     "/Assets/Pasted image 20240910110300.png",
