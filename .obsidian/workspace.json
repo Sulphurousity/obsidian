@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/IVT.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/IVT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/IVT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md"
+                "file": "Calc notes/IVT.md"
               }
             }
           }
@@ -159,20 +159,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "edb77d961e84193c",
+  "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
-    "Calc notes/Differentiability.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/IVT.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Implicit Differentiation.md",
     "Calc notes/Parametric Functions.md",
+    "Calc notes/Differentiability.md",
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Limits.md",
     "Calc notes/Scratchpad.md",
     "Assets/IVT Practice.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
-    "Calc notes/Limits.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Derivative rules.md",
-    "Calc notes/Squeeze Theorem.md",
-    "Calc notes/IVT.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Implicit Differentiation.md",
     "Assets/implicitdiffpractice2.pdf",
     "Excalidraw/CC Livret Packet.md",
     "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
