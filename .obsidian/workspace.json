@@ -11,12 +11,9 @@
             "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
+                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
+                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md"
+                "file": "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md"
               }
             }
           }
@@ -159,11 +156,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "edb77d961e84193c",
   "lastOpenFiles": [
-    "Assets/CC Livret Packet.pdf",
-    "Untitled.md",
     "Homework/September 24/9-19-2024.md",
+    "Excalidraw/Drawing 2024-09-19 22.27.08.excalidraw.md",
+    "Assets/CC Livret Packet.pdf",
+    "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
+    "Untitled.md",
     "Homework/September 24/9-18-2024.md",
     "Homework/September 24/9-16-2024.md",
     "Homework/September 24/9-13-2024.md",
@@ -196,8 +195,6 @@
     "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
     "Calc notes/Differentiability.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Derivative rules.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/Parametric Equations.pdf",
     "Assets/ExtraIVT(2)..pdf",
@@ -207,7 +204,6 @@
     "Assets/Limits and Continuity1..pdf",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/Pasted image 20240910105133.png",
-    "Assets/1.8 Squeeze Theorem Practice.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Everything.canvas",
