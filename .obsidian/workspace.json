@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
+                "file": "Calc notes/Parametric Functions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -27,14 +27,13 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Implicit Differentiation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/Parametric Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/Parametric Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md"
+                "file": "Calc notes/Parametric Functions.md"
               }
             }
           }
@@ -173,20 +173,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "54c2bf2f53eb21a6",
+  "active": "edb77d961e84193c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Homework/September 24/9-19-2024.md",
-    "Calc notes/Differentiability.md",
-    "Calc notes/IVT.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Squeeze Theorem.md",
     "Calc notes/Implicit Differentiation.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Derivative rules.md",
-    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Limits.md",
     "Calc notes/Scratchpad.md",
+    "Homework/September 24/9-19-2024.md",
+    "Untitled.md",
+    "Calc notes/Differentiability.md",
+    "Calc notes/IVT.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Limits using Def of Der.md",
     "Assets/IVT Practice.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/implicitdiffpractice2.pdf",
