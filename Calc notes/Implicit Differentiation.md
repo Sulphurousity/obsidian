@@ -54,3 +54,4 @@ $$\large 2x^{2}+y^{2}=9, (-2,2)$$
 $$\large 4x+2y\frac{dy}{dx}=0$$
 $$\large \frac{dy}{dx}=\frac{-4x}{2y}$$
 $$\large 
+ahhs
