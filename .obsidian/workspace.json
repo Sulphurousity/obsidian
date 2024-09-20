@@ -11,16 +11,24 @@
             "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Excalidraw/CC Livret Packet.md"
+              }
+            }
+          },
+          {
+            "id": "663cdbcb4c950ebf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
+                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md",
+                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-19-2024.md"
+                "file": "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md"
               }
             }
           }
@@ -159,10 +167,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "edb77d961e84193c",
+  "active": "663cdbcb4c950ebf",
   "lastOpenFiles": [
     "Excalidraw/CC Livret Packet.md",
+    "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
     "Homework/September 24/9-19-2024.md",
+    "Assets/implicit1.pdf",
     "Assets/CC Livret Packet.pdf",
     "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
     "Untitled.md",
@@ -205,7 +215,6 @@
     "Assets/Practice with Diff so Far.pdf",
     "Assets/IVTlim,cont,practice.pdf",
     "Assets/Limits and Continuity1..pdf",
-    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/Pasted image 20240910105133.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
