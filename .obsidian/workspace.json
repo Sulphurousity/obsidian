@@ -11,9 +11,12 @@
             "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Calc notes/Implicit Differentiation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Calc notes/Implicit Differentiation.md"
               }
             }
           }
@@ -158,10 +161,13 @@
   },
   "active": "edb77d961e84193c",
   "lastOpenFiles": [
+    "Calc notes/Parametric Functions.md",
+    "Calc notes/Implicit Differentiation.md",
+    "Assets/implicitdiffpractice2.pdf",
+    "Assets/IVT Practice.pdf",
+    "Excalidraw/CC Livret Packet.md",
     "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
     "Assets/implicit1.pdf",
-    "Assets/implicitdiffpractice2.pdf",
-    "Excalidraw/CC Livret Packet.md",
     "Homework/September 24/9-19-2024.md",
     "Assets/CC Livret Packet.pdf",
     "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
@@ -179,7 +185,6 @@
     "Homework/September 24/9-3-2024.md",
     "Homework/August 24/8-30-2024.md",
     "Homework/August 24/8-29-2024.md",
-    "Assets/IVT Practice.pdf",
     "Calc notes/Scratchpad.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
@@ -192,11 +197,9 @@
     "Homework/child po/crawling child po.png",
     "Homework/child po/chinese child po.png",
     "Homework/child po/white child po.png",
-    "Calc notes/Implicit Differentiation.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/IVT.md",
-    "Calc notes/Parametric Functions.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/Parametric Equations.pdf",
     "Assets/ExtraIVT(2)..pdf",
