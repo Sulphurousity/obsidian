@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/Limits.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md",
+                "file": "Calc notes/Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Implicit Differentiation.md"
+                "file": "Calc notes/Limits.md"
               }
             }
           }
@@ -161,6 +162,12 @@
   },
   "active": "edb77d961e84193c",
   "lastOpenFiles": [
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/IVT.md",
+    "Calc notes/Limits.md",
+    "Calc notes/Limits using Def of Der.md",
     "Calc notes/Parametric Functions.md",
     "Calc notes/Implicit Differentiation.md",
     "Assets/implicitdiffpractice2.pdf",
@@ -185,10 +192,8 @@
     "Homework/September 24/9-3-2024.md",
     "Homework/August 24/8-30-2024.md",
     "Homework/August 24/8-29-2024.md",
-    "Calc notes/Scratchpad.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
-    "Homework/child po/infant po.md",
     "Homework/child po/child po two electric boogaloo.png",
     "Homework/child po/child po in a bucket.png",
     "Homework/child po/yash.png",
@@ -197,9 +202,6 @@
     "Homework/child po/crawling child po.png",
     "Homework/child po/chinese child po.png",
     "Homework/child po/white child po.png",
-    "Calc notes/Limits.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/IVT.md",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/Parametric Equations.pdf",
     "Assets/ExtraIVT(2)..pdf",
