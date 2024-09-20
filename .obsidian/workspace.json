@@ -11,9 +11,12 @@
             "id": "edb77d961e84193c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/IVT Practice.pdf"
+                "file": "Calc notes/Implicit Differentiation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/IVT Practice.pdf",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/IVT Practice.pdf",
+                "file": "Calc notes/Implicit Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/IVT Practice.pdf"
+                "file": "Calc notes/Implicit Differentiation.md"
               }
             }
           }
@@ -158,6 +161,10 @@
   },
   "active": "edb77d961e84193c",
   "lastOpenFiles": [
+    "Calc notes/Differentiability.md",
+    "Calc notes/Parametric Functions.md",
+    "Calc notes/Scratchpad.md",
+    "Assets/IVT Practice.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Calc notes/Limits.md",
     "Calc notes/Non-Traditional Composition Limits.md",
@@ -165,10 +172,8 @@
     "Calc notes/Squeeze Theorem.md",
     "Calc notes/IVT.md",
     "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Parametric Functions.md",
     "Calc notes/Implicit Differentiation.md",
     "Assets/implicitdiffpractice2.pdf",
-    "Assets/IVT Practice.pdf",
     "Excalidraw/CC Livret Packet.md",
     "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
     "Assets/implicit1.pdf",
@@ -187,7 +192,6 @@
     "Homework/September 24/9-5-2024.md",
     "Homework/September 24/9-4-2024.md",
     "Homework/September 24/9-3-2024.md",
-    "Homework/August 24/8-30-2024.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po two electric boogaloo.png",
