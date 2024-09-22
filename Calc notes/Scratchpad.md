@@ -225,4 +225,12 @@ $$\large f(-1)=4(-1)-5(-1)+3$$
 $$\large f(-1)4$$
 $$\large y=7x+11$$
 ---
-$$\large $$
+$$\large y=7\sqrt{ x } \ at\ x=9$$
+$$\large y= 7x^{\frac{1}2}$$
+$$\large y= 7(9)^{\frac{1}2}$$
+$$\large y = 21$$
+$$\large \frac{dy}{dx}= 7x^{\frac{1}2}$$
+$$\large \frac{dy}{dx}= \frac{7}{2}x^{-\frac12}$$
+$$\large \frac{7}{2}(9)^{-\frac{1}2}=\frac{7}{6}$$
+$$\large y-21=\frac{7}{6}(x-9)$$
+$$\large y-21=\frac{7}{6}x-\frac{63}{6}$$
