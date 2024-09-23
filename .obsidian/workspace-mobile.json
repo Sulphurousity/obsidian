@@ -16,7 +16,7 @@
                 "file": "Calc notes/Implicit Differentiation.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -126,9 +126,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "3d88a5c240ee339e",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,16 +154,17 @@
   },
   "active": "637d70a0a3c5ac56",
   "lastOpenFiles": [
+    "/Calc notes/Scratchpad.md",
+    "/Calc notes/Implicit Differentiation.md",
+    "Calc notes/Scratchpad.md",
     "Calc notes/Implicit Differentiation.md",
     "Untitled.md",
     "/Untitled.md",
     "Calc notes/Parametric Functions.md",
     "Calc notes/Squeeze Theorem.md",
-    "Calc notes/Scratchpad.md",
     "Homework/September 24/9-19-2024.md",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/implicit1.pdf",
-    "/Calc notes/Implicit Differentiation.md",
     "/Assets/implicitdiffpractice2.pdf",
     "/Assets/implicit1.pdf",
     "Homework/September 24/9-12-2024.md",
@@ -177,7 +186,6 @@
     "/Homework/September 24/9-12-2024.md",
     "/Homework/August 24/8-30-2024.md",
     "/Excalidraw/CC Livret Packet.md",
-    "/Calc notes/Scratchpad.md",
     "/Calc notes/Non-Traditional Composition Limits.md",
     "/Calc notes/Limits.md",
     "/Assets/Parametric Equations.pdf",
