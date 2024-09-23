@@ -243,4 +243,4 @@ $$\large \frac{{d'y}}{dx'}=\frac{(y)(-2)-(-2x)\left( \frac{dy}{dx} \right)}{(y)^
 $$\large \frac{{d'y}}{dx'}=\frac{(-2y)-(-2x)\left( \frac{-2x}{y} \right)}{y^2}$$
 ---
 $$\large y=\frac{4-x}{9+x^2}$$
-$$\large \frac{dy}{dx}=\frac{(9+x^2)(4)-(2x)(4x)}{\left(9+x^2\right)^2}=\frac{4-8x^2}{9+x^2}$$
+$$\large \frac{dy}{dx}=\frac{(9+x^2)(4)-(2x)(4-x)}{\left(9+x^2\right)^2}=\frac{4-(8x-2x^2)}{9+x^2}$$
