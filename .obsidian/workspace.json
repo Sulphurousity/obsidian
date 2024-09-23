@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-23-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-23-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/September 24/9-23-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/September 24/9-23-2024.md"
               }
             }
           }
@@ -162,11 +162,12 @@
   "active": "edb77d961e84193c",
   "lastOpenFiles": [
     "Homework/September 24/9-19-2024.md",
+    "Homework/September 24/9-23-2024.md",
+    "Calc notes/Scratchpad.md",
     "Calc notes/Parametric Functions.md",
     "Calc notes/Implicit Differentiation.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Limits.md",
-    "Calc notes/Scratchpad.md",
     "Untitled.md",
     "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
@@ -191,7 +192,6 @@
     "9-17-2024.md",
     "Homework/September 24/9-5-2024.md",
     "Homework/September 24/9-4-2024.md",
-    "Homework/September 24/9-3-2024.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po two electric boogaloo.png",
