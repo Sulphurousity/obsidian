@@ -1,5 +1,5 @@
 {
-  "findText": ":[0-9][0-9]",
+  "findText": "\\n",
   "replaceText": "",
   "useRegEx": true,
   "selOnly": false,
