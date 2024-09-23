@@ -234,3 +234,9 @@ $$\large \frac{dy}{dx}= \frac{7}{2}x^{-\frac12}$$
 $$\large \frac{7}{2}(9)^{-\frac{1}2}=\frac{7}{6}$$
 $$\large y-21=\frac{7}{6}(x-9)$$
 $$\large y-21=\frac{7}{6}x-\frac{63}{6}$$
+---
+$$\large 2x^{2}+y^{2}=9$$
+$$\large 4x+2y\frac{{dy}}{dx}=0$$
+$$\large \frac{{dy}}{dx}=\frac{-4x}{2y}$$
+$$\large \frac{{d'y}}{dx'}=\frac{(-2y)(4)-(-4x)\left( 2\frac{dy}{dx} \right)}{(2y)^2}$$
+$$\large \frac{{d'y}}{dx'}=\frac{(-2y)(4)-(-4x)\left( 2\frac{dy}{dx} \right)}{(2y)^2}$$
