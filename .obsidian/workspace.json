@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-24-2024.md",
-                "mode": "source",
+                "file": "Homework/May 24/5-9-2024.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-24-2024.md",
+                "file": "Homework/May 24/5-9-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-24-2024.md",
+                "file": "Homework/May 24/5-9-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-24-2024.md"
+                "file": "Homework/May 24/5-9-2024.md"
               }
             }
           }
@@ -159,39 +160,39 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "edb77d961e84193c",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
-    "Homework/September 24/9-24-2024.md",
-    "Homework/September 24/9-23-2024.md",
-    "Homework/September 24/9-19-2024.md",
-    "Calc notes/Squeeze Theorem.md",
-    "Calc notes/Scratchpad.md",
-    "Assets/French Transcript.md",
+    "Homework/May 24/5-7-2024.md",
+    "Homework/May 24/5-8-2024.md",
+    "Homework/May 24/5-10-2024.md",
+    "Homework/May 24/5-13-2024.md",
+    "Homework/May 24/5-9-2024.md",
+    "Homework/May 24/5-1-2024.md",
+    "Homework/April 24/4-18-2024.md",
+    "Homework/May 24/5-14-2024.md",
+    "Homework/May 24/5-17-2024.md",
+    "Homework/May 24/5-23-2024.md",
+    "Homework/May 24/5-28-2024.md",
+    "Homework/May 24/5-29-2024.md",
+    "Homework/May 24/5-30-2024.md",
+    "Homework/May 24/5-31-2024.md",
+    "Homework/June 24/6-3-2024.md",
+    "Homework/June 24/6-4-2024.md",
+    "Homework/June 24/6-5-2024.md",
+    "Homework/June 24/6-6-2024.md",
+    "Homework/June 24/6-9-2024.md",
+    "Homework/June 24/6-11-2024.md",
+    "Homework/June 24/6-12-2024.md",
+    "Homework/June 24/6-13-2024.md",
+    "Homework/August 24/8-28-2024.md",
+    "Homework/August 24/8-29-2024.md",
+    "Homework/August 24/8-30-2024.md",
+    "Homework/September 24/9-3-2024.md",
     "Assets/implicitdiffpractice2.pdf",
-    "Calc notes/Parametric Functions.md",
-    "Calc notes/Implicit Differentiation.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Limits.md",
-    "Calc notes/Differentiability.md",
-    "Calc notes/IVT.md",
-    "Calc notes/Derivative rules.md",
-    "Calc notes/Limits using Def of Der.md",
     "Assets/IVT Practice.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
-    "Excalidraw/CC Livret Packet.md",
-    "Excalidraw/Drawing 2024-09-20 10.28.45.excalidraw.md",
     "Assets/implicit1.pdf",
     "Assets/CC Livret Packet.pdf",
-    "Excalidraw/Drawing 2024-09-18 22.05.57.excalidraw.md",
-    "Homework/September 24/9-18-2024.md",
-    "Homework/September 24/9-16-2024.md",
-    "Homework/September 24/9-13-2024.md",
-    "Homework/September 24/9-12-2024.md",
-    "Homework/September 24/9-11-2024.md",
-    "Homework/September 24/9-10-2024.md",
-    "Homework/September 24/9-6-2024.md",
-    "9-17-2024.md",
-    "Homework/September 24/9-5-2024.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
     "Homework/child po/child po two electric boogaloo.png",
