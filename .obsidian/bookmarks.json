@@ -12,6 +12,19 @@
       "items": [
         {
           "type": "group",
+          "ctime": 1727374690502,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1727374690502,
+              "path": "Excalidraw/CC Livret Packet.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Excalidraw"
+        },
+        {
+          "type": "group",
           "ctime": 1725476770950,
           "items": [],
           "title": "Assets"
@@ -673,6 +686,19 @@
             }
           ],
           "title": "Homework"
+        },
+        {
+          "type": "group",
+          "ctime": 1727374690502,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1727374690502,
+              "path": "Excalidraw/CC Livret Packet.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Excalidraw"
         },
         {
           "type": "group",
