@@ -1,8 +1,8 @@
 {
   "findText": "^\\$\\$",
-  "replaceText": "$$\\large \\color{lightblue}",
+  "replaceText": "$\\\\$ \\large \\color{lightblue} ",
   "useRegEx": true,
-  "selOnly": false,
+  "selOnly": true,
   "caseInsensitive": false,
   "processLineBreak": false,
   "processTab": false,
