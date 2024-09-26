@@ -1,6 +1,6 @@
 {
-  "findText": "\\n",
-  "replaceText": "",
+  "findText": "^\\$\\$",
+  "replaceText": "$$\\large \\color{lightblue}",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
