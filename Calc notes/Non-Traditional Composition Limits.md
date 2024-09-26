@@ -14,3 +14,4 @@ $$\large \color{lightblue} if\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ } f(x)=L, t
 By exploring the right-hand and left-hand compositions or operations, we can often find if the limit being explored exists or not. 
 
 Examples:
+![[Pasted image 20240926165405.png]]

@@ -5,6 +5,7 @@
   "cssTheme": "Minimal",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "customcss"
+    "customcss",
+    "adaptive_images"
   ]
 }
