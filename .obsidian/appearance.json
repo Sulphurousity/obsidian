@@ -3,5 +3,8 @@
   "baseFontSize": 16,
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "customcss"
+  ]
 }
