@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Limits.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "1ed8f8ab5e670839",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
+              }
             }
           }
         ],
@@ -165,15 +160,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ed8f8ab5e670839",
+  "active": "8df5951227946a0e",
   "lastOpenFiles": [
+    "Calc notes/Derivative rules.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Limits.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Excalidraw/CC Livret Packet.md",
     "Assets/French Transcript.md",
-    "Calc notes/Derivative rules.md",
     "Calc notes/Continuity.md",
     "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
