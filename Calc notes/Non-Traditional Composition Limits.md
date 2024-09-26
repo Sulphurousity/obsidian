@@ -15,3 +15,4 @@ By exploring the right-hand and left-hand compositions or operations, we can oft
 
 Examples:
 ![[Pasted image 20240926165405.png]]
+[[diagram-20240926.png]]
