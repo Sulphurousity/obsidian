@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Non-Traditional Composition Limits.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -162,8 +162,10 @@
   },
   "active": "41c3b007345ecb36",
   "lastOpenFiles": [
-    "Assets/diagram-20240926.png",
+    "Calc notes/IVT.md",
     "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Inverse Trig Derivatives.md",
+    "Assets/diagram-20240926.png",
     "Assets/Pasted image 20240926165405.png",
     "Calc notes/Squeeze Theorem.md",
     "Calc notes/Continuity.md",
@@ -195,9 +197,7 @@
     "Calc notes/Limits using Def of Der.md",
     "Excalidraw/CC Livret Packet.md",
     "Calc notes/Differentiability.md",
-    "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Inverse Trig Derivatives.md",
     "Calc notes/Implicit Differentiation.md",
     "Homework/September 24/9-25-2024.md",
     "Untitled.canvas",
