@@ -12,3 +12,5 @@ If traditional limit rules do not apply, then we can use the left and right limi
 $$\large \color{lightblue} if\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ } f(x)=L, then \lim_{ x \to a } f(x)=L$$
 By exploring the right-hand and left-hand compositions or operations, we can often find if the limit being explored exists or not. 
 
+Examples:
+![[Pasted image 20240925233014.png]]

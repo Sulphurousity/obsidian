@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
-                "mode": "source",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Derivative rules.md"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
@@ -162,17 +162,22 @@
   },
   "active": "dfb69325b52e8ffc",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240925233014.png",
+    "Assets/Pasted image 20240925232946.png",
+    "Calc notes/IVT.md",
+    "Calc notes/Parametric Functions.md",
     "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Scratchpad.md",
+    "Calc notes/Limits.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Derivative rules.md",
     "Untitled.canvas",
     "Homework/September 24/9-3-2024.md",
     "Homework/September 24/9-4-2024.md",
     "Homework/September 24/9-5-2024.md",
     "Calc notes/Squeeze Theorem.md",
-    "Calc notes/Parametric Functions.md",
     "Calc notes/Differentiability.md",
-    "Calc notes/IVT.md",
     "Calc notes/Implicit Differentiation.md",
-    "Calc notes/Derivative rules.md",
     "Homework/September 24/9-25-2024.md",
     "Homework/September 24/9-19-2024.md",
     "Homework/September 24/9-18-2024.md",
@@ -185,9 +190,6 @@
     "Homework/December 23/12-18-2023.md",
     "Homework/December 23/12-19-2023.md",
     "Homework/December 23/12-20-2023.md",
-    "Homework/December 23/12-21-2023.md",
-    "Homework/December 23/12-22-2023.md",
-    "Homework/January 24/1-2-2024.md",
     "Homework/child po/child po.canvas",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/IVT Practice.pdf",
@@ -208,7 +210,6 @@
     "Assets/ExtraIVT(2). (1).pdf",
     "Assets/Practice with Diff so Far.pdf",
     "Assets/IVTlim,cont,practice.pdf",
-    "Assets/Pasted image 20240910105133.png",
     "Untitled 1.canvas",
     "Everything.canvas",
     "Homework/Untitled.canvas"
