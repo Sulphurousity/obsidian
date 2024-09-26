@@ -29,3 +29,4 @@ $$ \large \color{lightblue} y=f'(g(x))\cdot g'(x)$$
 $$\large \color{lightblue} \frac{d}{dx}[\sin x]=\cos x$$
 $$\large \color{lightblue} \frac{d}{dx}[\cos x]=-\sin x$$
 $$\large \color{lightblue} \frac{d}{dx}[\sec x]=\sec x\tan x$$
+%%TODO: https://docs.google.com/document/d/1pdpVY_BdDJ5qVqgkQfffm7jMG5cEMJmNHIdD1j3lOKk/edit %%
