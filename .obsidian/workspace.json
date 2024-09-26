@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dcebc47a45303899",
+        "id": "cafde417dc1369e3",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb69325b52e8ffc",
+            "id": "8df5951227946a0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -63,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
@@ -158,8 +160,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb69325b52e8ffc",
+  "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
+    "Excalidraw/CC Livret Packet.md",
     "Assets/French Transcript.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Continuity.md",
@@ -188,7 +191,6 @@
     "Homework/December 23/12-13-2023.md",
     "Homework/December 23/12-14-2023.md",
     "Homework/December 23/12-15-2023.md",
-    "Homework/December 23/12-18-2023.md",
     "Homework/child po/child po.canvas",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/IVT Practice.pdf",
