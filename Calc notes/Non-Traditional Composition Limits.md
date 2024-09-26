@@ -15,9 +15,13 @@ By exploring the right-hand and left-hand compositions or operations, we can oft
 
 Examples:
 $$\large f(x)$$
-![[Pasted image 20240926194732.png#invert_B]]
+![[Non-Traditional Composition Limits f(x)1.png#invert_B]]
 $$\large g(x)$$
-![[Pasted image 20240926194859.png#invert_B]]
+![[Non-Traditional Composition Limits g(x)1.png#invert_B]]
 
 Find $\large \lim_{ x \to 1}f(g(x))$
-
+$\large \color{lightblue} 2$
+The Answer is clearly $\large \color{lightblue} 2$ because $\large \color{lightblue} \lim_{ x \to 1 }g(x)$ is  $\large \color{lightblue} 0$ and $\large \color{lightblue} \lim_{ x \to 0 }f(x)=2$
+```ad-example
+The limit of the inner function becomes the value that x approaches in the outer limit
+```

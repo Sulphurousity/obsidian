@@ -11,9 +11,12 @@
             "id": "41c3b007345ecb36",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/1.8 Squeeze Theorem Practice.pdf"
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           },
@@ -24,6 +27,16 @@
               "type": "pdf",
               "state": {
                 "file": "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf"
+              }
+            }
+          },
+          {
+            "id": "ff4416fcbf77b2fa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Non-Traditional Composition Limits f(x)1.png"
               }
             }
           }
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/1.8 Squeeze Theorem Practice.pdf",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/1.8 Squeeze Theorem Practice.pdf",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/1.8 Squeeze Theorem Practice.pdf"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,14 +182,19 @@
   },
   "active": "41c3b007345ecb36",
   "lastOpenFiles": [
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Assets/Limits and Continuity1..pdf",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
-    "Assets/Pasted image 20240926194859.png",
+    "Assets/Non-Traditional Composition Limits f(x)1.png",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Assets/inverse trig extra practice.pdf",
+    "Assets/Non-Traditional Composition Limits g(x)1.png",
+    "Assets/implicitdiff3.pdf",
+    "Assets/Implicitfreeresponsenoanswers2020-2021.pdf",
+    "Assets/French Transcript.md",
     "Assets/Pasted image 20240926194853.png",
     "Assets/Pasted image 20240926194827.png",
     "Assets/Pasted image 20240926194826.png",
-    "Assets/Pasted image 20240926194732.png",
+    "Assets/1.8 Squeeze Theorem Practice.pdf",
+    "Assets/Limits and Continuity1..pdf",
     "Calc notes/IVT.md",
     "Calc notes/Inverse Trig Derivatives.md",
     "Assets/diagram-20240926.png",
@@ -189,13 +207,8 @@
     "Assets/implicitapquestions.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/CC Livret Packet.pdf",
-    "Assets/implicitdiffpractice2.pdf",
-    "Assets/Salt Toxicity Lab Report.pdf",
-    "Assets/implicitdiff3.pdf",
-    "Assets/Implicitfreeresponsenoanswers2020-2021.pdf",
     "Assets/Pasted image 20240925232946.png",
     "Assets/Pasted image 20240925233014.png",
-    "Assets/French Transcript.md",
     "Homework/September 24/9-10-2024.md",
     "Homework/September 24/9-11-2024.md",
     "Homework/September 24/9-12-2024.md",
