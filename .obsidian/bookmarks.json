@@ -88,25 +88,6 @@
           "ctime": 1725476770950,
           "items": [
             {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "CSA notes/CSA 12-15.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "CSA notes/CSA 12-14.md",
-              "subpath": "#^-"
-            }
-          ],
-          "title": "CSA notes"
-        },
-        {
-          "type": "group",
-          "ctime": 1725476770950,
-          "items": [
-            {
               "type": "group",
               "ctime": 1725476770950,
               "items": [],
@@ -686,6 +667,25 @@
             }
           ],
           "title": "Homework"
+        },
+        {
+          "type": "group",
+          "ctime": 1725476770950,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "CSA notes/CSA 12-15.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "CSA notes/CSA 12-14.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "CSA notes"
         }
       ],
       "title": "sortspec"
