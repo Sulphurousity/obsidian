@@ -13,6 +13,98 @@
         {
           "type": "group",
           "ctime": 1725476770950,
+          "items": [],
+          "title": "Assets"
+        },
+        {
+          "type": "group",
+          "ctime": 1725476770950,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "Calc notes/Scratchpad.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "Calc notes/Limits.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "Calc notes/Limits using Def of Der.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "Calc notes/Derivative rules.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/Non-Traditional Composition Limits.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/IVT.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/Squeeze Theorem.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/Differentiability.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/Parametric Functions.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726864975162,
+              "path": "Calc notes/Implicit Differentiation.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Calc notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1725476770950,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "CSA notes/CSA 12-15.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1725476770950,
+              "path": "CSA notes/CSA 12-14.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "CSA notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1725476770950,
           "items": [
             {
               "type": "group",
@@ -594,98 +686,6 @@
             }
           ],
           "title": "Homework"
-        },
-        {
-          "type": "group",
-          "ctime": 1725476770950,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "Calc notes/Scratchpad.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "Calc notes/Limits.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "Calc notes/Limits using Def of Der.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "Calc notes/Derivative rules.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/Non-Traditional Composition Limits.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/IVT.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/Squeeze Theorem.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/Differentiability.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/Parametric Functions.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1726864975162,
-              "path": "Calc notes/Implicit Differentiation.md",
-              "subpath": "#^-"
-            }
-          ],
-          "title": "Calc notes"
-        },
-        {
-          "type": "group",
-          "ctime": 1725476770950,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "CSA notes/CSA 12-15.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1725476770950,
-              "path": "CSA notes/CSA 12-14.md",
-              "subpath": "#^-"
-            }
-          ],
-          "title": "CSA notes"
-        },
-        {
-          "type": "group",
-          "ctime": 1725476770950,
-          "items": [],
-          "title": "Assets"
         }
       ],
       "title": "sortspec"

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
-                "mode": "preview",
+                "file": "Calc notes/IVT.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Calc notes/IVT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Calc notes/IVT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md"
+                "file": "Calc notes/IVT.md"
               }
             }
           }
@@ -157,16 +158,17 @@
       "audio-recorder:Start/stop recording": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb69325b52e8ffc",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/Pasted image 20240925233014.png",
     "Assets/Pasted image 20240925232946.png",
     "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
@@ -204,7 +206,6 @@
     "Homework/child po/vulnerable child po.png",
     "Homework/child po/crawling child po.png",
     "Homework/child po/chinese child po.png",
-    "Homework/child po/white child po.png",
     "Assets/Parametric Equations.pdf",
     "Assets/ExtraIVT(2)..pdf",
     "Assets/ExtraIVT(2). (1).pdf",

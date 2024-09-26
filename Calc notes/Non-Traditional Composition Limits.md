@@ -14,3 +14,6 @@ By exploring the right-hand and left-hand compositions or operations, we can oft
 
 Examples:
 ![[Pasted image 20240925233014.png]]
+```desmos-graph
+
+```
