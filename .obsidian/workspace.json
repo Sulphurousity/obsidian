@@ -11,12 +11,19 @@
             "id": "41c3b007345ecb36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "Assets/1.8 Squeeze Theorem Practice.pdf"
+              }
+            }
+          },
+          {
+            "id": "18db67afd4b27e86",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf"
               }
             }
           }
@@ -105,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Assets/1.8 Squeeze Theorem Practice.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Assets/1.8 Squeeze Theorem Practice.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md"
+                "file": "Assets/1.8 Squeeze Theorem Practice.pdf"
               }
             }
           }
@@ -162,8 +169,15 @@
   },
   "active": "41c3b007345ecb36",
   "lastOpenFiles": [
-    "Calc notes/IVT.md",
     "Calc notes/Non-Traditional Composition Limits.md",
+    "Assets/Limits and Continuity1..pdf",
+    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
+    "Assets/Pasted image 20240926194859.png",
+    "Assets/Pasted image 20240926194853.png",
+    "Assets/Pasted image 20240926194827.png",
+    "Assets/Pasted image 20240926194826.png",
+    "Assets/Pasted image 20240926194732.png",
+    "Calc notes/IVT.md",
     "Calc notes/Inverse Trig Derivatives.md",
     "Assets/diagram-20240926.png",
     "Assets/Pasted image 20240926165405.png",
@@ -175,12 +189,10 @@
     "Assets/implicitapquestions.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
     "Assets/CC Livret Packet.pdf",
-    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/Salt Toxicity Lab Report.pdf",
     "Assets/implicitdiff3.pdf",
     "Assets/Implicitfreeresponsenoanswers2020-2021.pdf",
-    "Assets/implicitapquestions (1).pdf",
     "Assets/Pasted image 20240925232946.png",
     "Assets/Pasted image 20240925233014.png",
     "Assets/French Transcript.md",
@@ -204,11 +216,6 @@
     "Homework/September 24/9-3-2024.md",
     "Homework/child po/child po.canvas",
     "Homework/child po/child po scroll.png",
-    "Homework/child po/child po two electric boogaloo.png",
-    "Homework/child po/child po in a bucket.png",
-    "Homework/child po/yash.png",
-    "Homework/child po/hungry child po.png",
-    "Homework/child po/vulnerable child po.png",
     "Untitled 1.canvas",
     "Everything.canvas",
     "Homework/Untitled.canvas"

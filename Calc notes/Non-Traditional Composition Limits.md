@@ -14,5 +14,10 @@ $$\large \color{lightblue} if\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ } f(x)=L, t
 By exploring the right-hand and left-hand compositions or operations, we can often find if the limit being explored exists or not. 
 
 Examples:
-![[Pasted image 20240926165405.png]]
-![[diagram-20240926.png]]
+$$\large f(x)$$
+![[Pasted image 20240926194732.png#invert_B]]
+$$\large g(x)$$
+![[Pasted image 20240926194859.png#invert_B]]
+
+Find $\large \lim_{ x \to 1}f(g(x))$
+
