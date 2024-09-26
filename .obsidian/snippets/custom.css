@@ -1,0 +1,8 @@
+.math {
+    color: var(173,216,230) !important;}
+
+/* # if you want different styling for inline and block math
+.math.math-block { }
+
+.math.math-inline { } 
+*/
