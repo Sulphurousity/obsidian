@@ -11,12 +11,9 @@
             "id": "dfb69325b52e8ffc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Excalidraw/CC Livret Packet.md"
               }
             }
           }
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Excalidraw/CC Livret Packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Excalidraw/CC Livret Packet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Derivative rules.md"
+                "file": "Excalidraw/CC Livret Packet.md"
               }
             }
           }
@@ -162,11 +159,12 @@
   },
   "active": "dfb69325b52e8ffc",
   "lastOpenFiles": [
+    "Assets/French Transcript.md",
+    "Calc notes/Derivative rules.md",
     "Calc notes/Continuity.md",
     "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Derivative rules.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
@@ -190,7 +188,6 @@
     "Homework/December 23/12-14-2023.md",
     "Homework/December 23/12-15-2023.md",
     "Homework/December 23/12-18-2023.md",
-    "Homework/December 23/12-19-2023.md",
     "Homework/child po/child po.canvas",
     "Assets/implicitdiffpractice2.pdf",
     "Assets/IVT Practice.pdf",
