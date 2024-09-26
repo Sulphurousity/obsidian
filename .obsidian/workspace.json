@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Differentiability.md",
+                "file": "Calc notes/Derivative rules.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Differentiability.md",
+                "file": "Calc notes/Derivative rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Differentiability.md",
+                "file": "Calc notes/Derivative rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Differentiability.md"
+                "file": "Calc notes/Derivative rules.md"
               }
             }
           }
@@ -161,12 +160,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6bf5acef4bc2abc",
+  "active": "dfb69325b52e8ffc",
   "lastOpenFiles": [
+    "Calc notes/Continuity.md",
+    "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Differentiability.md",
-    "Calc notes/Continuity.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Limits using Def of Der.md",
     "Calc notes/Scratchpad.md",
