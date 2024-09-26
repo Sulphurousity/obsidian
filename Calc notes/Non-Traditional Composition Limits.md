@@ -1,4 +1,4 @@
-Relavant 
+Relevant PDFs [[Non Traditional Composition _ Operation Notes _ Practice.pdf]]
 The commonly memorized composition rule for limits is generally presented as:
 $$\color{lightblue} \large \lim_{ x \to a } f(g(x))=f(\lim_{ x \to a } g(x))$$
 provided that $\color{lightblue} \large \lim_{ x \to a } g(x)=L$ and $\color{lightblue} \large f(x)$ is continuous at $\large \color{lightblue} x=L$

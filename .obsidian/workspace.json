@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cafde417dc1369e3",
+        "id": "dd66500b42fc3cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "8df5951227946a0e",
+            "id": "d0f8230c5c03622f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/implicitdiffpractice2.pdf"
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/implicitdiffpractice2.pdf",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/implicitdiffpractice2.pdf",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/implicitdiffpractice2.pdf"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
@@ -157,19 +160,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8df5951227946a0e",
+  "active": "d0f8230c5c03622f",
   "lastOpenFiles": [
+    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Assets/implicitdiffpractice2.pdf",
+    "Assets/Salt Toxicity Lab Report.pdf",
     "Assets/implicitapquestions.pdf",
     "Assets/implicitdiff3.pdf",
     "Assets/Implicitfreeresponsenoanswers2020-2021.pdf",
     "Assets/implicitapquestions (1).pdf",
-    "Assets/Salt Toxicity Lab Report.pdf",
     "Assets/inverse trig intro.pdf",
     "Assets/inverse trig extra practice.pdf",
-    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/Practice with Diff so Far.pdf",
-    "Assets/Derivpractice.pdf",
-    "Assets/1.8 Squeeze Theorem.pdf",
     "Assets/Pasted image 20240925232946.png",
     "Assets/Pasted image 20240925233014.png",
     "Assets/French Transcript.md",
@@ -183,7 +186,6 @@
     "Homework/September 24/9-23-2024.md",
     "Homework/September 24/9-24-2024.md",
     "Calc notes/Limits.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Derivative rules.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits using Def of Der.md",
