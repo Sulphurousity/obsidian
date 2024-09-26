@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Homework/September 24/9-25-2024.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Homework/September 24/9-25-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Homework/September 24/9-25-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md"
+                "file": "Homework/September 24/9-25-2024.md"
               }
             }
           }
@@ -161,14 +161,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb69325b52e8ffc",
+  "active": "f4a95bc65f0c861c",
   "lastOpenFiles": [
-    "Calc notes/Derivative rules.md",
+    "Homework/September 24/9-25-2024.md",
     "Calc notes/IVT.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Differentiability.md",
+    "Calc notes/Parametric Functions.md",
+    "Calc notes/Implicit Differentiation.md",
     "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Derivative rules.md",
     "Assets/Pasted image 20240925233014.png",
     "Assets/Pasted image 20240925232946.png",
-    "Calc notes/Parametric Functions.md",
     "Calc notes/Scratchpad.md",
     "Calc notes/Limits.md",
     "Calc notes/Limits using Def of Der.md",
@@ -176,10 +180,6 @@
     "Homework/September 24/9-3-2024.md",
     "Homework/September 24/9-4-2024.md",
     "Homework/September 24/9-5-2024.md",
-    "Calc notes/Squeeze Theorem.md",
-    "Calc notes/Differentiability.md",
-    "Calc notes/Implicit Differentiation.md",
-    "Homework/September 24/9-25-2024.md",
     "Homework/September 24/9-19-2024.md",
     "Homework/September 24/9-18-2024.md",
     "Homework/September 24/9-10-2024.md",
