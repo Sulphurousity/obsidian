@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
+                "file": "Calc notes/Limits.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
+          },
+          {
+            "id": "1ed8f8ab5e670839",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calc notes/Non-Traditional Composition Limits.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,8 +165,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4a95bc65f0c861c",
+  "active": "1ed8f8ab5e670839",
   "lastOpenFiles": [
+    "Calc notes/Limits.md",
+    "Calc notes/Scratchpad.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Excalidraw/CC Livret Packet.md",
     "Assets/French Transcript.md",
     "Calc notes/Derivative rules.md",
@@ -169,10 +178,6 @@
     "Calc notes/Differentiability.md",
     "Calc notes/IVT.md",
     "Calc notes/Parametric Functions.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Calc notes/Scratchpad.md",
-    "Calc notes/Limits.md",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Inverse Trig Derivatives.md",
     "Calc notes/Implicit Differentiation.md",
     "Homework/September 24/9-25-2024.md",

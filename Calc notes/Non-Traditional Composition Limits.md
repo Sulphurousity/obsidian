@@ -1,3 +1,4 @@
+
 The commonly memorized composition rule for limits is generally presented as:
 $$\color{lightblue} \large \lim_{ x \to a } f(g(x))=f(\lim_{ x \to a } g(x))$$
 provided that $\color{lightblue} \large \lim_{ x \to a } g(x)=L$ and $\color{lightblue} \large f(x)$ is continuous at $\large \color{lightblue} x=L$
@@ -13,7 +14,3 @@ $$\large \color{lightblue} if\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ } f(x)=L, t
 By exploring the right-hand and left-hand compositions or operations, we can often find if the limit being explored exists or not. 
 
 Examples:
-![[Pasted image 20240925233014.png]]
-```desmos-graph
-y=3x
-```
