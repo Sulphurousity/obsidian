@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Homework/September 24/9-26-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Squeeze Theorem.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -186,9 +186,9 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
-    "Homework/September 24/9-25-2024.md",
-    "Homework/September 24/9-26-2024.md",
     "Calc notes/Squeeze Theorem.md",
+    "Homework/September 24/9-26-2024.md",
+    "Homework/September 24/9-25-2024.md",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
