@@ -26,7 +26,12 @@ Then:
 $$ \large \color{lightblue} y=f'(g(x))\cdot g'(x)$$
 ---
 **Trig Derivatives**:
+*sin*:
 $$\large \color{lightblue} \frac{d}{dx}[\sin x]=\cos x$$
 $$\large \color{lightblue} \frac{d}{dx}[\cos x]=-\sin x$$
+*tan*:
+$$\large \color{lightblue} \frac{d}{dx}[\tan x]=\sec^2x$$
+$$\large \color{lightblue} \frac{d}{dx}[\cot x]-\csc^2x$$
+*sec*:
 $$\large \color{lightblue} \frac{d}{dx}[\sec x]=\sec x\tan x$$
-%%TODO: https://docs.google.com/document/d/1pdpVY_BdDJ5qVqgkQfffm7jMG5cEMJmNHIdD1j3lOKk/edit %%
+$$\large \color{lightblue} \frac{d}{dx}[\csc x]=-\csc x\cot x$$

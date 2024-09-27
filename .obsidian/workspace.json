@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/September 24/9-26-2024.md",
+                "file": "Calc notes/Derivative rules.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Squeeze Theorem.md",
+                "file": "Calc notes/Derivative rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Squeeze Theorem.md",
+                "file": "Calc notes/Derivative rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Squeeze Theorem.md"
+                "file": "Calc notes/Derivative rules.md"
               }
             }
           }
@@ -185,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41c3b007345ecb36",
+  "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Limits using Def of Der.md",
     "Homework/September 24/9-26-2024.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Homework/September 24/9-25-2024.md",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
@@ -226,7 +226,6 @@
     "Homework/September 24/9-23-2024.md",
     "Homework/September 24/9-24-2024.md",
     "Calc notes/Derivative rules.md",
-    "Calc notes/Limits using Def of Der.md",
     "Excalidraw/CC Livret Packet.md",
     "Calc notes/Differentiability.md",
     "Calc notes/Parametric Functions.md",
