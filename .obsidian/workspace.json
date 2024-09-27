@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Derivative rules.md",
+                "file": "Calc notes/Non-Traditional Composition Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Derivative rules.md"
+                "file": "Calc notes/Non-Traditional Composition Limits.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
+    "Calc notes/Derivative rules.md",
     "Calc notes/Limits using Def of Der.md",
     "Homework/September 24/9-26-2024.md",
     "Calc notes/Squeeze Theorem.md",
@@ -225,7 +226,6 @@
     "Homework/September 24/9-18-2024.md",
     "Homework/September 24/9-23-2024.md",
     "Homework/September 24/9-24-2024.md",
-    "Calc notes/Derivative rules.md",
     "Excalidraw/CC Livret Packet.md",
     "Calc notes/Differentiability.md",
     "Calc notes/Parametric Functions.md",
