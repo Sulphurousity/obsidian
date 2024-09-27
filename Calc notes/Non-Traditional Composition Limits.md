@@ -9,7 +9,7 @@ This is also true with other conventional limit rules:
 $$\large \color{lightblue} \lim_{ x \to a } (f(x)+g(x))=L_{1}+L_{2}$$
 However, if $\large \color{lightblue} \lim_{ x \to a }f(x)$ or $\large \color{lightblue} \lim_{ x \to a }g(x)$ doesn't exist, then we cannot apply that property either.
 
-If traditional limit rules do not apply, then we can use the left and right limits of a function as x approaches a to find if a limit exists or not.
+If traditional limit rules do not apply, we can still use the left and right limits of a function as x approaches a to find if a limit exists or not.
 $$\large \color{lightblue} if\lim_{ x \to a^- }f(x)=\lim_{ x \to a^+ } f(x)=L, then \lim_{ x \to a } f(x)=L$$
 By exploring the right-hand and left-hand compositions or operations, we can often find if the limit being explored exists or not. 
 
