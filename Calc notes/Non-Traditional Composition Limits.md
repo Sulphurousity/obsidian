@@ -34,3 +34,5 @@ $$\large 0$$
 The answer is $\large \color{lightblue} 0$ and not $\large \color{lightblue} DNE$ as one might expect because $\large \color{lightblue} \lim_{ x \to 0 }f(x) = 2$ but the value of $\large \color{lightblue} \lim_{ x \to 0 }f(x)$ approaches 2 from the bottom and since it is a cusp, the outer function will equal to $\large \color{lightblue} \lim_{ x \to 2^- }f(x)$ which is not the same as $\large \color{lightblue} \lim_{ x \to 2 }f(x)$ so the answer is 2
 > [!note]
 > If the function has a cusp at the value x approaches, and the function approaches from the bottom, the outer function will have an x value that approaches from the right (-). While, if the function approaches from the top, the outer function will have an x value that approaches from the left (+)
+
+![[diagram-20240927.png]]

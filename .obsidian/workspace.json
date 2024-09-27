@@ -11,9 +11,9 @@
             "id": "ff4416fcbf77b2fa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Assets/diagram-20240927.png"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Assets/diagram-20240927.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md",
+                "file": "Assets/diagram-20240927.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CC Livret Packet.md"
+                "file": "Assets/diagram-20240927.png"
               }
             }
           }
@@ -160,19 +160,20 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
-    "Calc notes/Non-Traditional Composition Limits.md",
-    "Calc notes/Limits using Def of Der.md",
-    "Excalidraw/CC Livret Packet.md",
-    "Calc notes/Squeeze Theorem.md",
-    "Assets/CC Livret Packet.pdf",
-    "Homework/September 24/9-26-2024.md",
-    "Calc notes/Continuity.md",
-    "Calc notes/Derivative rules.md",
-    "Homework/September 24/9-25-2024.md",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
-    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
-    "Assets/inverse trig extra practice.pdf",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
+    "Assets/diagram-20240927.png",
+    "Calc notes/Non-Traditional Composition Limits.md",
+    "Calc notes/Continuity.md",
+    "Assets/CC Livret Packet.pdf",
+    "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
+    "Calc notes/Derivative rules.md",
+    "Excalidraw/CC Livret Packet.md",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Squeeze Theorem.md",
+    "Homework/September 24/9-26-2024.md",
+    "Homework/September 24/9-25-2024.md",
+    "Assets/inverse trig extra practice.pdf",
     "Assets/implicitdiff3.pdf",
     "Assets/Implicitfreeresponsenoanswers2020-2021.pdf",
     "Assets/French Transcript.md",
@@ -206,7 +207,6 @@
     "Calc notes/Implicit Differentiation.md",
     "Untitled.canvas",
     "Homework/child po/child po.canvas",
-    "Homework/child po/child po scroll.png",
     "Untitled 1.canvas",
     "Everything.canvas",
     "Homework/Untitled.canvas"
