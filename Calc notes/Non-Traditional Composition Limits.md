@@ -35,4 +35,4 @@ The answer is $\large \color{lightblue} 0$ and not $\large \color{lightblue} DNE
 > [!note]
 > If the function has a cusp at the value x approaches, and the function approaches from the bottom, the outer function will have an x value that approaches from the right (-). While, if the function approaches from the top, the outer function will have an x value that approaches from the left (+)
 
-![[diagram-20240927.png]]
+![[diagram-20240927.png#invert_B]]
