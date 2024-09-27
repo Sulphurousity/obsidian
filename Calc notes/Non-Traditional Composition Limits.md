@@ -20,9 +20,17 @@ $$\large g(x)$$
 ![[Non-Traditional Composition Limits g(x)1.png#invert_B]]
 
 Find $\large \lim_{ x \to 1}f(g(x))$
-$$\large \color{lightblue} 2$$
-The Answer is  $\large \color{lightblue} 2$ because $\large \color{lightblue} \lim_{ x \to 1 }g(x)$ is  $\large \color{lightblue} 0$ and $\large \color{lightblue} \lim_{ x \to 0 }f(x)=2$
+$$\large 2$$
+The answer is  $\large \color{lightblue} 2$ because $\large \color{lightblue} \lim_{ x \to 1 }g(x) = 0$ and $\large \color{lightblue} \lim_{ x \to 0 }f(x)=2$
 > [!note] 
 > The limit of the inner function becomes the value that x approaches in the outer limit
 
-Find 
+Find $\large \lim_{ x \to 2 }[f(x)\cdot g(x)]$
+$$\large DNE$$
+The answer is $\large \color{lightblue} DNE$ because $\large \color{lightblue} \lim_{ x \to 2 }f(x)$ does not exist because the left and right limits are not the same so the entire expression does not exist.
+
+Find $\large \lim_{ x \to 0 }f(f(x))$
+$$\large 0$$
+The answer is $\large \color{lightblue} 0$ and not $\large \color{lightblue} DNE$ as one might expect because $\large \color{lightblue} \lim_{ x \to 0 }f(x) = 2$ but the value of $\large \color{lightblue} \lim_{ x \to 0 }f(x)$ approaches 2 from the bottom and since it is a cusp, the outer function will equal to $\large \color{lightblue} \lim_{ x \to 2^- }f(x)$ which is not the same as $\large \color{lightblue} \lim_{ x \to 2 }f(x)$ so the answer is 2
+> [!note]
+> If the function has a cusp at the value x approaches, and the function approaches from the bottom, the outer function will have an x value that approaches from the right (-). While, if the function approaches from the top, the outer function will have an x value that approaches from the left (+)
