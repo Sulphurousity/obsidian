@@ -20,8 +20,9 @@ $$\large g(x)$$
 ![[Non-Traditional Composition Limits g(x)1.png#invert_B]]
 
 Find $\large \lim_{ x \to 1}f(g(x))$
-$\large \color{lightblue} 2$
-The Answer is clearly $\large \color{lightblue} 2$ because $\large \color{lightblue} \lim_{ x \to 1 }g(x)$ is  $\large \color{lightblue} 0$ and $\large \color{lightblue} \lim_{ x \to 0 }f(x)=2$
-```ad-example
-The limit of the inner function becomes the value that x approaches in the outer limit
-```
+$$\large \color{lightblue} 2$$
+The Answer is  $\large \color{lightblue} 2$ because $\large \color{lightblue} \lim_{ x \to 1 }g(x)$ is  $\large \color{lightblue} 0$ and $\large \color{lightblue} \lim_{ x \to 0 }f(x)=2$
+> [!note] 
+> The limit of the inner function becomes the value that x approaches in the outer limit
+
+Find 
