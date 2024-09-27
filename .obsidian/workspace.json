@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/September 24/9-26-2024.md",
+                "file": "Calc notes/Squeeze Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/September 24/9-26-2024.md",
+                "file": "Calc notes/Squeeze Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/September 24/9-26-2024.md"
+                "file": "Calc notes/Squeeze Theorem.md"
               }
             }
           }
@@ -184,13 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff4416fcbf77b2fa",
+  "active": "41c3b007345ecb36",
   "lastOpenFiles": [
+    "Calc notes/Non-Traditional Composition Limits.md",
     "Calc notes/Squeeze Theorem.md",
     "Homework/September 24/9-26-2024.md",
     "Homework/September 24/9-25-2024.md",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
-    "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/inverse trig extra practice.pdf",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
