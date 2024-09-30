@@ -245,9 +245,16 @@ $$\large \frac{{d'y}}{dx'}=\frac{(-2y)-(-2x)\left( \frac{-2x}{y} \right)}{y^2}$$
 $$\large y=\frac{4-x}{9+x^2}$$
 $$\large \frac{dy}{dx}=\frac{(9+x^2)(4)-(2x)(4-x)}{\left(9+x^2\right)^2}$$
 ---
-$$\large y=\sqrt{ 5^{2}-1 }-\sec^{-1}(5)$$
-$$\large \frac{dy}{dx}=\frac{1}{2}(5^2-1)^{-\frac{1}2}+$$
+$$\large y=\sqrt{ s^{2}-1 }-\sec^{-1}(s)$$
+$$\large \frac{dy}{ds}=\frac{1}{2}(s^2-1)^{-\frac{1}2}*(2s)-\frac{1}{|s|\sqrt{ s^2-1 }}$$
+$$\large \frac{dy}{ds}=\frac{2s}{2\sqrt{ s^{2}-1 }}-\frac{1}{|s|\sqrt{ s^2-1 }}$$
+$$\large \frac{dy}{ds}=\frac{s}{\sqrt{ s^{2}-1 }}-\frac{1}{|s|\sqrt{ s^2-1 }}$$
 ---
 $$\large y=\tan^{-1}(\sqrt{ x^{2}-1 })+\csc^{-1}(x),x>1$$
+$$\large \frac{dy}{dx}=\frac{\frac{1}{2}(x^{2}-1)^{-\frac{1}{2}}(2x)}{1+x^2-1}-\frac{1}{|x|\sqrt{ x^2-1 }}$$
+$$\large \frac{dy}{ds}=\frac{1}{x\sqrt{ x^2 +1}}-\frac{1}{x\sqrt{ x^{2}+1 }}=0$$
 ---
 $$\large y=\cot^{-1}\left( \frac{1}{x} \right)-\tan^{-1}(x)$$
+$$\large \frac{dy}{dx}=0$$
+$$\large \frac{dy}{dx}=-\frac{-\frac{1}{x^2}}{\frac{1}{x^2}+1}-\frac{1}{x^2+1}$$
+$$\large \frac{dy}{dx}=\frac{1}{1+x^2}-\frac{1}{1+x^2}=0$$
