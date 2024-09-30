@@ -246,6 +246,7 @@ $$\large y=\frac{4-x}{9+x^2}$$
 $$\large \frac{dy}{dx}=\frac{(9+x^2)(4)-(2x)(4-x)}{\left(9+x^2\right)^2}$$
 ---
 $$\large y=\sqrt{ 5^{2}-1 }-\sec^{-1}(5)$$
+$$\large \frac{dy}{dx}=\frac{1}{2}(5^2-1)^{-\frac{1}2}+$$
 ---
 $$\large y=\tan^{-1}(\sqrt{ x^{2}-1 })+\csc^{-1}(x),x>1$$
 ---

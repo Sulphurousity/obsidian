@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calc notes/Scratchpad.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -163,6 +163,7 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
+    "Calc notes/Scratchpad.md",
     "Assets/diagram-20240927.png",
     "Homework/September 24/9-30-2024.md",
     "Homework/September 24/9-29-2024.md",
@@ -196,7 +197,6 @@
     "Assets/diagram-20240926.png",
     "Assets/Pasted image 20240926165405.png",
     "Calc notes/Limits.md",
-    "Calc notes/Scratchpad.md",
     "Assets/IVTlim,cont,practice.pdf",
     "Assets/implicitapquestions.pdf",
     "Assets/Answer key on Parametric Equations and Calculus.pdf",
