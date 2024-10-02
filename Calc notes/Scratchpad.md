@@ -258,3 +258,9 @@ $$\large y=\cot^{-1}\left( \frac{1}{x} \right)-\tan^{-1}(x)$$
 $$\large \frac{dy}{dx}=0$$
 $$\large \frac{dy}{dx}=-\frac{-\frac{1}{x^2}}{\frac{1}{x^2}+1}-\frac{1}{x^2+1}$$
 $$\large \frac{dy}{dx}=\frac{1}{1+x^2}-\frac{1}{1+x^2}=0$$
+---
+$$\large \frac{d}{dx}[8x^2+2x-5]=16x+2$$
+$$\large 0=16x+2$$
+$$\large -2=16x$$
+$$\large -\frac{1}{8}=x$$
+$$\large 8(-\frac 18 )^{2}+2(-\frac 18 )-5$$
