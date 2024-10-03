@@ -289,3 +289,10 @@ $$\large \frac{d}{dx}\left[\left( 1+(3x)^{\frac{1}{2}} \right)^{\frac{1}{2}}\rig
 $$\large \frac{d}{dx}\left[\left( 1+(3x)^{\frac{1}{2}} \right)^{\frac{1}{2}}\right]=\frac{3}{4}\left(1+(3x)^{\frac{1}{2}}\right)^{-\frac{1}{2}}(3x)^{-\frac{1}{2}}$$
 $$\large \frac{3}{4\sqrt{ 1+\sqrt{ 3x } }\sqrt{ 3x }} $$
 $$\large \frac{3}{4\sqrt{ 3x(1+\sqrt{ 3x }) }} $$
+---
+$$\large y^4=y^{2}-x^{2}$$
+$$\large 4y^3\frac{dy}{dx}=2y\frac{dy}{dx}-2x$$
+$$\large \frac{dy}{dx}=-\frac{2x}{4y^3-2y}$$
+$$\large -\frac{2\left( \frac{\sqrt{ 3 }}{4} \right)}{4\left( \frac{1}{2} \right)^{3}-2\left( \frac{1}{2} \right)}$$
+$$\large -\frac{\frac{\sqrt{ 3 }}{2}}{\frac{4}{27}-1}$$
+$$\large -\frac{}{}$$
