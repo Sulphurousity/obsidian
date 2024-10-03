@@ -266,9 +266,9 @@ $$\large -\frac{1}{8}=x$$
 $$\large 8(-\frac 18 )^{2}+2(-\frac 18 )-5$$
 ---
 $$\large 6x^2+6xy+8y^2+13y-6=0, (-1,0)$$
-$$\large 12x+6x\frac{dy}{dx}+6y+16y\frac{dy}{dx}+13\frac{dy}{dx}-6=0$$
-$$\large 6x\frac{dy}{dx}+16y\frac{dy}{dx}+13\frac{dy}{dx}=-12x-6y+6$$
-$$\large \frac{dy}{dx}=\frac{-12x-6y+6}{6x+16y+13}$$
-$$\large \frac{-12(-1)-6y+6}{6(-1)+16y+13}$$
-$$\large \frac{12-6y+6}{-6+16y+13}$$
-$$\large \frac{-6y+18}{-6+16y+13}$$
+$$\large 12x+6x\frac{dy}{dx}+6y+16y\frac{dy}{dx}+13\frac{dy}{dx}=0$$
+$$\large 6x\frac{dy}{dx}+16y\frac{dy}{dx}+13\frac{dy}{dx}=-12x-6y$$
+$$\large \frac{dy}{dx}=\frac{-12x-6y}{6x+16y+13}$$
+$$\large \frac{-12(-1)-6y}{6(-1)+16y+13}$$
+$$\large \frac{12-6y}{7+16y}$$
+$$\large \frac{6(2-y)}{7+16y}$$
