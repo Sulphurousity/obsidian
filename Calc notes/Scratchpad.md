@@ -273,3 +273,7 @@ $$\large \frac{-12(-1)-6y}{6(-1)+16y+13}$$
 $$\large \frac{12-6(0)}{7+16(0)}$$
 $$\large \frac{12}{7}$$
 $$\large y=\frac{12}{7}(x+1)$$
+---
+$$\large y=5\sin(\pi x-y),(-1,0)$$
+$$\large 5\cos(\pi x-y)\cdot \pi-\frac{dy}{dx}$$
+$$\large \frac{dy}{dx}=$$
