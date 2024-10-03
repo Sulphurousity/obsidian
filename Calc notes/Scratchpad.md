@@ -295,4 +295,7 @@ $$\large 4y^3\frac{dy}{dx}=2y\frac{dy}{dx}-2x$$
 $$\large \frac{dy}{dx}=-\frac{2x}{4y^3-2y}$$
 $$\large -\frac{2\left( \frac{\sqrt{ 3 }}{4} \right)}{4\left( \frac{1}{2} \right)^{3}-2\left( \frac{1}{2} \right)}$$
 $$\large -\frac{\frac{\sqrt{ 3 }}{2}}{\frac{4}{27}-1}$$
-$$\large -\frac{}{}$$
+$$\large -\frac{\sqrt{ 3 }}{2\left( -\frac{23}{27} \right)}$$
+
+$$\large -\frac{\sqrt{ 3 }}{\left( -\frac{46}{27} \right)}$$
+$$\large -\frac{27\sqrt{ 3 }}{46}$$
