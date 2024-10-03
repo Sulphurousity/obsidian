@@ -270,5 +270,6 @@ $$\large 12x+6x\frac{dy}{dx}+6y+16y\frac{dy}{dx}+13\frac{dy}{dx}=0$$
 $$\large 6x\frac{dy}{dx}+16y\frac{dy}{dx}+13\frac{dy}{dx}=-12x-6y$$
 $$\large \frac{dy}{dx}=\frac{-12x-6y}{6x+16y+13}$$
 $$\large \frac{-12(-1)-6y}{6(-1)+16y+13}$$
-$$\large \frac{12-6y}{7+16y}$$
-$$\large \frac{6(2-y)}{7+16y}$$
+$$\large \frac{12-6(0)}{7+16(0)}$$
+$$\large \frac{12}{7}$$
+$$\large y=\frac{12}{7}(x+1)$$
