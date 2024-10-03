@@ -276,4 +276,4 @@ $$\large y=\frac{12}{7}(x+1)$$
 ---
 $$\large y=5\sin(\pi x-y),(-1,0)$$
 $$\large 5\cos(\pi x-y)\cdot \pi-\frac{dy}{dx}$$
-$$\large \frac{dy}{dx}=$$
+$$\large \frac{dy}{dx}=5\cos(\pi x-y)\cdot \pi$$
