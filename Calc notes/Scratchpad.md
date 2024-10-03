@@ -300,5 +300,8 @@ $$\large -\frac{\sqrt{ 3 }}{2\left( -\frac{1}{2} \right)}$$
 $$\large \sqrt{ 3 }$$
 $$\large -\frac{2x}{4y^3-2y}$$
 $$\large -\frac{2\left( -\frac{\sqrt{ 3 }}{4} \right)}{4\left( \frac{\sqrt{ 3 }}{2} \right)^{3}-2\left( \frac{\sqrt{ 3 }}{2} \right)}$$
-$$\large -\frac{-\frac{\sqrt{ 3 }}{2}}{4\left( \frac{9\sqrt{ 3 }}{2} \right)-\sqrt{ 3 }}$$
-$$\large -\frac{-\frac{\sqrt{ 3 }}{2}}{18\sqrt{ 3 }-\sqrt{ 3 }}$$
+$$\large -\frac{-\frac{\sqrt{ 3 }}{2}}{4\left( \frac{3\sqrt{ 3 }}{8} \right)-\sqrt{ 3 }}$$
+$$\large -\frac{-\frac{\sqrt{ 3 }}{2}}{\frac{3\sqrt{ 3 }}{2}-\sqrt{ 3 }}$$
+$$\large \frac{\frac{\sqrt{ 3 }}{2}}{\frac{\sqrt{ 3 }}{2}}$$
+$$\large 1$$
+----
