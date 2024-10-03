@@ -286,3 +286,6 @@ $$\large \frac{5y-5x\frac{dy}{dx}}{(5y)^2}$$
 $$\large \frac{5y-5x\frac{x}{5y}}{(5y)^2}$$
 ---
 $$\large \frac{d}{dx}\left[\left( 1+(3x)^{\frac{1}{2}} \right)^{\frac{1}{2}}\right]=\frac{1}{2}\left(1+(3x)^{\frac{1}{2}}\right)^{-\frac{1}{2}}\cdot\frac12(3x)^{-\frac 12}\cdot3$$
+$$\large \frac{d}{dx}\left[\left( 1+(3x)^{\frac{1}{2}} \right)^{\frac{1}{2}}\right]=\frac{3}{4}\left(1+(3x)^{\frac{1}{2}}\right)^{-\frac{1}{2}}(3x)^{-\frac{1}{2}}$$
+$$\large \frac{3}{4\sqrt{ 1+\sqrt{ 3x } }\sqrt{ 3x }} $$
+$$\large \frac{3}{4\sqrt{ 3x(1+\sqrt{ 3x }) }} $$
