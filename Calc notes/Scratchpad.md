@@ -278,3 +278,11 @@ $$\large y=5\sin(\pi x-y),(-1,0)$$
 $$\large \frac{dy}{dx}= 5\cos(\pi x-y)\cdot \pi-\frac{dy}{dx}$$
 $$\large \frac{dy}{dx}+\frac{dy}{dx}= 5\cos(\pi x-y)\cdot \pi$$
 $$\large \frac{dy}{dx}=\frac{5\cos(\pi x-y)\cdot \pi}{2}$$
+---
+$$\large x^2-5y^2=1$$
+$$\large 2x-10y\frac{dy}{dx}=0$$
+$$\large \frac{x}{5y}=\frac{dy}{dx}$$
+$$\large \frac{5y-5x\frac{dy}{dx}}{(5y)^2}$$
+$$\large \frac{5y-5x\frac{x}{5y}}{(5y)^2}$$
+---
+$$\large \frac{d}{dx}\left[\left( 1+(3x)^{\frac{1}{2}} \right)^{\frac{1}{2}}\right]=\frac{1}{2}\left(1+(3x)^{\frac{1}{2}}\right)^{-\frac{1}{2}}\cdot\frac12(3x)^{-\frac 12}\cdot3$$
