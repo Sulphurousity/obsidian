@@ -307,3 +307,9 @@ $$\large 1$$
 ----
 $$\large f(x)=2x+e^{x}$$
 $$\large \frac{d}{dx}\left[2x+e^{x}\right]=2+e^{x}+1=3+e^x$$
+---
+$$\large h(x)=x^5+3x-2$$
+$$\large \frac{d}{dx}[h(x)]=5x^4+3$$
+$$\large \frac{1}{5(2)^4+3}=\frac{1}{5(16)+3}=\frac{1}{83}$$
+---
+$$\large $$
