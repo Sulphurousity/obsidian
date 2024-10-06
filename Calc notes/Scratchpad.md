@@ -305,3 +305,5 @@ $$\large -\frac{-\frac{\sqrt{ 3 }}{2}}{\frac{3\sqrt{ 3 }}{2}-\sqrt{ 3 }}$$
 $$\large \frac{\frac{\sqrt{ 3 }}{2}}{\frac{\sqrt{ 3 }}{2}}$$
 $$\large 1$$
 ----
+$$\large f(x)=2x+e^{x}$$
+$$\large \frac{d}{dx}\left[2x+e^{x}\right]=2+e^{x}+1=3+e^x$$
