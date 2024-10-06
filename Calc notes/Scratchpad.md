@@ -312,5 +312,5 @@ $$\large h(x)=x^5+3x-2$$
 $$\large \frac{d}{dx}[h(x)]=5x^4+3$$
 $$\large \frac{1}{5(2)^4+3}=\frac{1}{5(16)+3}=\frac{1}{83}$$
 ---
-$$\large \frac{d}{dx}[h(x)]=2g(x)-2f(x)=-4x+10-4x-4=-8x-6$$
+$$\large \frac{d}{dx}[h(x)]=\frac{1}{2}g(x)-2f(x)=-x+\frac{5}{2}-4x-4=-8x-1.5$$
 $$\large $$
