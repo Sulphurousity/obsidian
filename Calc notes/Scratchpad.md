@@ -317,3 +317,5 @@ $$\large -5(2)-1.5$$
 ---
 $$\large f(x)=\frac{4\sqrt{ x }}{5}+3\sqrt{ x^{3} }\ find\ f'(4)$$
 $$\large \frac{4}{10}x^{-\frac{1}{2}}+\frac{9}{2}x^\frac{1}{2}$$
+---
+$$\large -\frac{1}{2}x^2-\frac{5}{24}+\frac{1}{6}x^{-4}$$
