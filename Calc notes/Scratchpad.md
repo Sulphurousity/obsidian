@@ -314,3 +314,6 @@ $$\large \frac{1}{5(2)^4+3}=\frac{1}{5(16)+3}=\frac{1}{83}$$
 ---
 $$\large \frac{d}{dx}[h(x)]=\frac{1}{2}g(x)-2f(x)=-x+\frac{5}{2}-4x-4=-5x-1.5$$
 $$\large -5(2)-1.5$$
+---
+$$\large f(x)=\frac{4\sqrt{ x }}{5}+3\sqrt{ x^{3} }\ find\ f'(4)$$
+$$\large \frac{4}{10}x^{-\frac{1}{2}}+\frac{9}{2}x^\frac{1}{2}$$
