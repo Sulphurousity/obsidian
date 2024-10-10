@@ -16,7 +16,7 @@
                 "file": "Calc notes/Scratchpad.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
-    "Calc notes/Limits.md",
     "Calc notes/Scratchpad.md",
+    "Calc notes/Limits.md",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
     "Assets/diagram-20240927.png",
     "Homework/October 24/10-8-2024.md",
