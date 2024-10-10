@@ -329,4 +329,12 @@ $$\large 3x^2\cos x-x^3\sin x$$
 $$\large \frac{x}{4-3x^4}$$
 $$\large \frac{(4-3x^4)(1)-(x)(-12x^3)}{(4-3x^4)^2}$$
 $$\large \frac{(4-3x^4)+12x^4}{(4-3x^4)^2}$$
-$$\large \frac{1}{4-3x^4}+\frac{12x^4}{4-3x^4}$$
+$$\large \frac{4+9x^4}{(4-3x^4)^2}$$
+---
+$$\large f(x)=3\sin(4x^{3})$$
+$$\large f'(x)=3\cos(4x^3)\cdot 12x^2$$
+$$\large 36x^2\cos(4x^3)$$
+---
+$$\large -\sin x$$
+$$\large -\cos x$$
+$$\large -\cos \left( \frac{3\pi}{4} \right)=\frac{\sqrt{ 3 }}{2}$$
