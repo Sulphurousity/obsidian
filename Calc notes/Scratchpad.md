@@ -321,3 +321,12 @@ $$\large \frac{4}{10}x^{-\frac{1}{2}}+\frac{9}{2}x^\frac{1}{2}$$
 $$\large -\frac{1}{2}x^2-\frac{5}{24}+\frac{1}{6}x^{-4}$$
 $$\large -x-\frac{4}{6}x^{-5}$$
 $$\large -1+\frac{20}{6}x^{-6}$$
+$$\large -20x^{-7}$$
+---
+$$\large x^3\cos x$$
+$$\large 3x^2\cos x-x^3\sin x$$
+---
+$$\large \frac{x}{4-3x^4}$$
+$$\large \frac{(4-3x^4)(1)-(x)(-12x^3)}{(4-3x^4)^2}$$
+$$\large \frac{(4-3x^4)+12x^4}{(4-3x^4)^2}$$
+$$\large $$
