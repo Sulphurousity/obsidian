@@ -337,4 +337,5 @@ $$\large 36x^2\cos(4x^3)$$
 ---
 $$\large -\sin x$$
 $$\large -\cos x$$
-$$\large -\cos \left( \frac{3\pi}{4} \right)=\frac{\sqrt{ 3 }}{2}$$
+$$\large -\cos \left( \frac{3\pi}{4} \right)=\frac{\sqrt{ 2 }}{2}$$
+$$\large y-\frac{\sqrt{ 2 }}{2}=\frac{\sqrt{ 2 }}{2}\left( x-\frac{3\pi}{4} \right)$$
