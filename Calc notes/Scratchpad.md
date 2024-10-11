@@ -339,3 +339,5 @@ $$\large -\sin x$$
 $$\large -\cos x$$
 $$\large -\cos \left( \frac{3\pi}{4} \right)=\frac{\sqrt{ 2 }}{2}$$
 $$\large y-\frac{\sqrt{ 2 }}{2}=\frac{\sqrt{ 2 }}{2}\left( x-\frac{3\pi}{4} \right)$$
+---
+$$\large $$
