@@ -354,3 +354,4 @@ $$\large y=1(x-11)+1$$
 ---
 $$\large y=5\sin (\pi x-y),\ (-1,0)$$
 $$\large \frac{dy}{dx}=5\cos (\pi x-y)(\pi-\frac{dy}{dx})$$
+$$\large \frac{dy}{dx}$$
