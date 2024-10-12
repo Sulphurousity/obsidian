@@ -359,3 +359,6 @@ $$\large \frac{dy}{dx}+\frac{dy}{dx}5\cos(\pi x-y)=5\pi \cos(\pi x-y)$$
 $$\large \frac{dy}{dx}=\frac{5\pi \cos(\pi x-y)}{1+5\cos(\pi x-y)}$$
 $$\large \frac{5\pi \cos(\pi (-1)-(0))}{1+5\cos(\pi (-1)-(0))}$$
 $$\large \frac{5\pi \cos(-\pi)}{1+5\cos(-\pi)}$$
+$$\large \frac{5\pi(-1)}{1+5(-1)}$$
+$$\large \frac{-5\pi}{1-5}$$
+$$\large \frac{5\pi}{4}$$
