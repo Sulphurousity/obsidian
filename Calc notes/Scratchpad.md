@@ -340,11 +340,11 @@ $$\large -\cos x$$
 $$\large -\cos \left( \frac{3\pi}{4} \right)=\frac{\sqrt{ 2 }}{2}$$
 $$\large y-\frac{\sqrt{ 2 }}{2}=\frac{\sqrt{ 2 }}{2}\left( x-\frac{3\pi}{4} \right)$$
 ---
-$$\large y=\frac{1}{(x-9)}$$
-$$\large \frac{dy}{dx}=-1(x-9)^{-2}$$
-$$\large -1=-1(x-9)^{-2}$$
-$$\large 1=\frac{1}{(x-9)^2}$$
-$$\large (x-9)^2=1$$
-$$\large x^2-18x+80=0$$
+$$\large y=\frac{1}{(x-10)}$$
+$$\large \frac{dy}{dx}=-1(x-10)^{-2}$$
+$$\large -1=-1(x-10)^{-2}$$
+$$\large 1=\frac{1}{(x-10)^2}$$
+$$\large (x-10)^2=1$$
+$$\large x^2-20x+100=0$$
 $$\large x=8,\ x=10$$
 $$\large y=-1(x-8)-1$$
