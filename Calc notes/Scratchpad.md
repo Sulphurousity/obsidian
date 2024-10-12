@@ -371,3 +371,4 @@ $$\large -\frac{(1)^2+6}{2(1)\left( \frac{1}{2} \right)}=-7$$
 $$\large x^2-xy+y^2=-1$$
 $$\large 2x-x\frac{dy}{dx}-y+2y\frac{dy}{dx}=0$$
 $$\large \frac{2x-y}{x-2y}=\frac{dy}{dx}$$
+$$\large \frac{dy}{dx}=\frac{-2x+y}{-x+2y}=\frac{y-2x}{2y-x}$$
