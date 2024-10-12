@@ -369,5 +369,5 @@ $$\large -\frac{y^2+6}{2yx}=\frac{dy}{dx}$$
 $$\large -\frac{(1)^2+6}{2(1)\left( \frac{1}{2} \right)}=-7$$
 ---
 $$\large x^2-xy+y^2=-1$$
-$$\large 2x-x\frac{dy}{dx}+y+2y\frac{dy}{dx}=0$$
-$$\large \frac{2x+y}{x-2y}=\frac{dy}{dx}$$
+$$\large 2x-x\frac{dy}{dx}-y+2y\frac{dy}{dx}=0$$
+$$\large \frac{2x-y}{x-2y}=\frac{dy}{dx}$$
