@@ -362,3 +362,12 @@ $$\large \frac{5\pi \cos(-\pi)}{1+5\cos(-\pi)}$$
 $$\large \frac{5\pi(-1)}{1+5(-1)}$$
 $$\large \frac{-5\pi}{1-5}$$
 $$\large \frac{5\pi}{4}$$
+---
+$$\large xy^2+6x=\frac{7}{2},\ \left( \frac{1}{2},1 \right)$$
+$$\large 2yx\frac{dy}{dx}+y^2+6=0$$
+$$\large -\frac{y^2+6}{2yx}=\frac{dy}{dx}$$
+$$\large -\frac{(1)^2+6}{2(1)\left( \frac{1}{2} \right)}=-7$$
+---
+$$\large x^2-xy+y^2=-1$$
+$$\large 2x-x\frac{dy}{dx}+y+2y\frac{dy}{dx}=0$$
+$$\large \frac{2x+y}{x-2y}=\frac{dy}{dx}$$
