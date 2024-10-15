@@ -376,3 +376,5 @@ $$\large \frac{dy}{dx}=\frac{-2x+y}{-x+2y}=\frac{y-2x}{2y-x}$$
 $$\large \arcsin x=\ln y$$
 $$\large \frac{1}{\sqrt{ 1-x^2 }}=\frac{\frac{dy}{dx}}{y}$$
 $$\large \frac{y}{\sqrt{ 1-x^{2} }}=\frac{dy}{dx}$$
+---
+$$\large \frac{1}{\sqrt{ 1-x^2 }}=2$$
