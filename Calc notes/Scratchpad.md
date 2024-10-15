@@ -378,4 +378,9 @@ $$\large \frac{1}{\sqrt{ 1-x^2 }}=\frac{\frac{dy}{dx}}{y}$$
 $$\large \frac{y}{\sqrt{ 1-x^{2} }}=\frac{dy}{dx}$$
 ---
 $$\large \frac{1}{\sqrt{ 1-x^2 }}=2$$
-$$\large (1-x^2)^{-\frac{1}{2}}=2$$
+$$\large 1=2\sqrt{ 1-x^2 }$$
+$$\large \frac{1}{2}=\sqrt{ 1-x^{2} }$$
+$$\large \frac{1}{4}=1-x^2$$
+$$\large \frac{3}{4}=x^{2}$$
+$$\large \sqrt{ \frac{3}{4} }=x$$
+$$\large \frac{\sqrt{ 3 }}{2}=x$$
