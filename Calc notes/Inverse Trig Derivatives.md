@@ -1,7 +1,8 @@
 $$\large \frac{d}{dx}\left[\sin^{-1}u\right]=\frac{u'}{\sqrt{1-u^{2}}}$$
 $$\large \frac{d}{dx}\left[\tan^{-1}u\right]=\frac{u'}{1+u^{2}}$$
 $$\large \frac{d}{dx}\left[\sec^{-1}u\right]=\frac{u'}{\left|u\right|\sqrt{u^{2}-1}}$$
-he cofunctions of all the inv
+the cofunctions of all the inv
+
 $\large \frac{d}{dx}[\arctan(\sin x)]$
 $$\large \frac{d}{dx}[\arctan(\sin x)]=-\frac{6x}{\sqrt{1-\left(3x^{2}\right)^{2}}}=\frac{{-6}}{\sqrt{ 1-9x^4 } }$$
 $\large \frac{d}{dx}[\arctan(\sin x)]$
