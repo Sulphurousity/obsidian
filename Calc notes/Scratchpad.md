@@ -384,3 +384,6 @@ $$\large \frac{1}{4}=1-x^2$$
 $$\large \frac{3}{4}=x^{2}$$
 $$\large \sqrt{ \frac{3}{4} }=x$$
 $$\large \frac{\sqrt{ 3 }}{2}=x$$
+---
+$$\large (2x+1)^{3}$$
+$$\large 6(2x+1)^{2}$$
