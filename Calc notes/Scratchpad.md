@@ -388,4 +388,4 @@ $$\large \frac{\sqrt{ 3 }}{2}=x$$
 $$\large (2x+1)^{3}$$
 $$\large 6(2x+1)^{2}$$
 ---
-$$\large (x+1)\cos(\pi x)$$
+$$\large (x+1)\cos(\pi x)=0$$
