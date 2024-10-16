@@ -395,3 +395,9 @@ $$\large \frac{d}{dx}\left[ \arctan 4x \right]=\frac{4}{1+16x^2}$$
 $$\large \frac{4}{1+16\left( \frac{1}{4} \right)^2}=\frac{4}{2}=2$$
 ---
 $$\large f : (0,1)$$
+---
+$$\large \ln e=1$$
+$$\large \ln=\log_{e}$$
+$$\large \log_x 2=3$$
+$$\large x^3=2$$
+$$\large e^x=e^x$$
