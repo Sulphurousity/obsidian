@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-15-2024.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-15-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-15-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/October 24/10-15-2024.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
+    "Calc notes/Scratchpad.md",
     "Homework/October 24/10-15-2024.md",
     "Homework/October 24/10-11-2024.md",
     "Calc notes/Inverse Trig Derivatives.md",
     "Calc notes/Parametric Functions.md",
     "Calc notes/Implicit Differentiation.md",
-    "Calc notes/Scratchpad.md",
     "Homework/October 24/10-10-2024.md",
     "Homework/October 24/10-8-2024.md",
     "Homework/October 24/10-2-2024.md",
