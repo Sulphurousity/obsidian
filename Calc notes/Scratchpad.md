@@ -394,3 +394,4 @@ $$\large \frac{d}{dx}[\arctan u]=\frac{u'}{1+u^2}$$
 $$\large \frac{d}{dx}\left[ \arctan 4x \right]=\frac{4}{1+16x^2}$$
 $$\large \frac{4}{1+16\left( \frac{1}{4} \right)^2}=\frac{4}{2}=2$$
 ---
+$$\large f : (0,1)$$
