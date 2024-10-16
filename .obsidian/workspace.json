@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
-                "mode": "source",
+                "file": "Homework/October 24/10-15-2024.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-15-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-15-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calc notes/Scratchpad.md"
+                "file": "Homework/October 24/10-15-2024.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "ff4416fcbf77b2fa",
   "lastOpenFiles": [
+    "10-16-2024.md",
     "Homework/October 24/10-15-2024.md",
     "Calc notes/Scratchpad.md",
     "Homework/October 24/10-11-2024.md",
@@ -202,7 +203,6 @@
     "Assets/Pasted image 20240926194826.png",
     "Assets/1.8 Squeeze Theorem Practice.pdf",
     "Assets/Limits and Continuity1..pdf",
-    "Calc notes/IVT.md",
     "Assets/diagram-20240926.png",
     "Assets/Pasted image 20240926165405.png",
     "Assets/IVTlim,cont,practice.pdf",
