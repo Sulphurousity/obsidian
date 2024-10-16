@@ -389,4 +389,6 @@ $$\large (2x+1)^{3}$$
 $$\large 6(2x+1)^{2}$$
 ---
 $$\large (x+1)\cos(\pi x)=0$$
-	
+---
+$$\large \frac{d}{dx}\left[ \arctan 4x \right]=\frac{4}{1+16x^2}$$
+$$\large \frac{4}{1+16\left( \frac{1}{4} \right)^2}=\frac{1}{2}$$
