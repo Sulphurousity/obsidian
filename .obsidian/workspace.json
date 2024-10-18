@@ -17,10 +17,25 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10-17-2024"
+            }
+          },
+          {
+            "id": "0fc716688b6db214",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -64,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,7 +110,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -97,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -114,7 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 10-17-2024"
             }
           },
           {
@@ -126,7 +153,9 @@
                 "file": "Homework/October 24/10-17-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 10-17-2024"
             }
           },
           {
@@ -136,7 +165,9 @@
               "type": "outline",
               "state": {
                 "file": "Homework/October 24/10-17-2024.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10-17-2024"
             }
           }
         ],
@@ -161,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff4416fcbf77b2fa",
+  "active": "0fc716688b6db214",
   "lastOpenFiles": [
     "Homework/October 24/10-15-2024.md",
     "Homework/October 24/10-17-2024.md",
