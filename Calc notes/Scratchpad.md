@@ -405,4 +405,6 @@ $$\large e^x=e^x$$
 $$\large f(x)=\arctan x$$
 $$\large \frac{1}{1+x^2}$$
 $$\large \frac{1}{1+\left( \frac{4}{5} \right)^2}$$
-$$\large \frac{1}{\frac{31}{25}}$$
+$$\large \frac{1}{\frac{41}{25}}$$
+$$\large \frac{25}{41}$$
+---
