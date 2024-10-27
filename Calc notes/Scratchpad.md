@@ -402,5 +402,7 @@ $$\large \log_x 2=3$$
 $$\large x^3=2$$
 $$\large e^x=e^x$$
 ---
-$$\large f(x)=2+8e^{-\frac{x}{3}}$$
-$$\large -\frac{8}{3}x^{-1}$$
+$$\large f(x)=\arctan x$$
+$$\large \frac{1}{1+x^2}$$
+$$\large \frac{1}{1+\left( \frac{4}{5} \right)^2}$$
+$$\large \frac{1}{\frac{31}{25}}$$
