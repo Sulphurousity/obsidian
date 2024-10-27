@@ -402,4 +402,5 @@ $$\large \log_x 2=3$$
 $$\large x^3=2$$
 $$\large e^x=e^x$$
 ---
-$$\large $$
+$$\large f(x)=2+8e^{-\frac{x}{3}}$$
+$$\large -\frac{8}{3}x^{-1}$$
