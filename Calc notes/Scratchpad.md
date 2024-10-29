@@ -412,3 +412,4 @@ $$\large y^{2}=9x^{2}+4x$$
 $$\large 2y\frac{dy}{dx}=18x+4$$
 $$\large \frac{dy}{dx}=\frac{18x+4}{2y}$$
 $$\large \frac{d^{2}y}{dx^{2}}=\frac{2y(18)-(18x+4)2\frac{dy}{dx}}{(2y)^2}$$
+$$\large \frac{d^{2}y}{dx^{2}}=\frac{36y-(18x+4)\frac{18x+4}{y}}{4y^2}$$
