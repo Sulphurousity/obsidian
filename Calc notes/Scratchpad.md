@@ -418,5 +418,6 @@ $$\large \frac{d^{2}y}{dx^{2}}=9y-(9x+)$$
 $$\large 2x+x\frac{dy}{dx}+y-4y\frac{dy}{dx}=0$$
 $$\large \frac{2x+y}{-x+4y}=\frac{dy}{dx}$$
 $$\large \frac{9}{9}=\frac{dy}{dx}$$
-$$\large y=x$$
+$$\large y=-x+6$$
+$$\large $$
 $$\large $$
