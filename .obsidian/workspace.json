@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc notes/Scratchpad.md",
+                "file": "Homework/October 24/10-29-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratchpad"
+              "title": "10-29-2024"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5110321044922,
-    "collapsed": true
+    "width": 235.5110321044922
   },
   "right": {
     "id": "5a5611be27b90661",
@@ -162,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +180,10 @@
   },
   "active": "5c031ebe69c37303",
   "lastOpenFiles": [
+    "Calc notes/Scratchpad.md",
     "Homework/October 24/10-29-2024.md",
     "Homework/October 24/10-24-2024.md",
     "Homework/October 24/10-1-2024.md",
-    "Calc notes/Scratchpad.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/diagram-20240927.png",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
