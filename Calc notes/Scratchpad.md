@@ -414,3 +414,9 @@ $$\large \frac{dy}{dx}=\frac{18x+4}{2y}$$
 $$\large \frac{d^{2}y}{dx^{2}}=\frac{2y(18)-(18x+4)2\frac{dy}{dx}}{(2y)^2}$$
 $$\large \frac{d^{2}y}{dx^{2}}=\frac{36y-(18x+4)\frac{18x+4}{y}}{4y^2}$$
 $$\large \frac{d^{2}y}{dx^{2}}=9y-(9x+)$$
+---
+$$\large 2x+x\frac{dy}{dx}+y-4y\frac{dy}{dx}=0$$
+$$\large \frac{2x+y}{-x+4y}=\frac{dy}{dx}$$
+$$\large \frac{9}{9}=\frac{dy}{dx}$$
+$$\large y=x$$
+$$\large $$
