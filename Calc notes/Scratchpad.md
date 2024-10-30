@@ -428,4 +428,4 @@ $$\large \frac{dy}{dx}=-\frac{63x^8}{\sqrt{ 1-(7x^9)^{2} }}$$
 $$\large \frac{dy}{dx}=-\frac{\frac{-7}{x^2}}{\sqrt{ 1-\left( \frac{7}{x} \right)^2 }}$$
 $$\large \frac{7}{\sqrt{x^{4}\left(1-\frac{49}{x^{2}}\right)}}$$
 $$\large \frac{7}{\sqrt{x^{4}-49x^{2}}}$$
-$$\large $$
+$$\large \frac{7}{x\sqrt{x^{2}-49}}$$
