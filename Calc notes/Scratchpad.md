@@ -431,4 +431,5 @@ $$\large \frac{7}{\sqrt{x^{4}-49x^{2}}}$$
 $$\large \frac{7}{|x|\sqrt{x^{2}-49}}$$
 ---
 $$\large \arccos(\sqrt{ 3 }t)$$
-$$\large $$
+$$\large -\frac{\sqrt{ 3 }}{\sqrt{ 1-(\sqrt{ 3 }t)^2 }}$$
+$$\large -\frac{\sqrt{ 3 }}{\sqrt{ 1-3t^2 }}$$
