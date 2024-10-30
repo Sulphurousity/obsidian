@@ -16,7 +16,7 @@
                 "file": "Calc notes/Scratchpad.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Scratchpad"
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5110321044922
+    "width": 235.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "5a5611be27b90661",
@@ -161,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

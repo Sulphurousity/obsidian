@@ -419,5 +419,7 @@ $$\large 2x+x\frac{dy}{dx}+y-4y\frac{dy}{dx}=0$$
 $$\large \frac{2x+y}{-x+4y}=\frac{dy}{dx}$$
 $$\large \frac{9}{9}=\frac{dy}{dx}$$
 $$\large y=-x+6$$
-$$\large $$
+$$\large -1=\frac{2x+y}{-x+4y}$$
+$$\large x-4y=2x+y$$
+$$\large -x=5y$$
 $$\large $$
