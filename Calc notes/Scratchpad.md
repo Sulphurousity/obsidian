@@ -424,3 +424,6 @@ $$\large x-4y=2x+y$$
 $$\large -x=5y$$
 ---
 $$\large \frac{dy}{dx}=-\frac{63x^8}{\sqrt{ 1-(7x^9)^{2} }}$$
+---
+$$\large \frac{dy}{dx}=-\frac{\frac{7}{x^2}}{\sqrt{ 1-\left( \frac{7}{x} \right)^2 }}$$
+$$\large $$
