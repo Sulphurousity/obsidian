@@ -435,3 +435,4 @@ $$\large -\frac{\sqrt{ 3 }}{\sqrt{ 1-(\sqrt{ 3 }t)^2 }}$$
 $$\large -\frac{\sqrt{ 3 }}{\sqrt{ 1-3t^2 }}$$
 ---
 $$\large \frac{dy}{dx}=6x \frac{1}{\sqrt{ 1-x^2 }}+6\arcsin x+3(1-x^2)^{-\frac{1}{2}}\cdot-2x$$
+$$\large 6\arcsin x+\frac{6x}{\sqrt{ 1-x^2 }}$$
