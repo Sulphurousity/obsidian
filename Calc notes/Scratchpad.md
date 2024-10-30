@@ -422,4 +422,5 @@ $$\large y=-x+6$$
 $$\large -1=\frac{2x+y}{-x+4y}$$
 $$\large x-4y=2x+y$$
 $$\large -x=5y$$
-$$\large $$
+---
+$$\large \frac{dy}{dx}=-\frac{63x^8}{\sqrt{ 1-(7x^9)^{2} }}$$
