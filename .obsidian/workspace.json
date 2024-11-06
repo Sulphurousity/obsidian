@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Homework/October 24/10-29-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "10-29-2024"
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,37 +179,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c031ebe69c37303",
+  "active": "b6bf5acef4bc2abc",
   "lastOpenFiles": [
-    "Calc notes/Scratchpad.md",
+    "Homework/November 24/11-6-2024.md",
     "Homework/October 24/10-29-2024.md",
     "Homework/October 24/10-24-2024.md",
+    "Homework/November 24/Untitled",
     "Homework/October 24/10-1-2024.md",
+    "Homework/October 24/10-2-2024.md",
+    "Homework/October 24/10-8-2024.md",
+    "Homework/October 24/10-10-2024.md",
+    "Homework/October 24/10-11-2024.md",
+    "Homework/October 24/10-15-2024.md",
+    "Homework/October 24/10-17-2024.md",
+    "Homework/October 24/10-18-2024.md",
+    "Homework/October 24/10-21-2024.md",
+    "Homework/October 24/10-22-2024.md",
+    "Homework/October 24/10-23-2024.md",
+    "Homework/November 24",
+    "Calc notes/Scratchpad.md",
     "Calc notes/Non-Traditional Composition Limits.md",
     "Assets/diagram-20240927.png",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
     "Calc notes/Limits.md",
-    "Homework/October 24/10-23-2024.md",
-    "Homework/October 24/10-22-2024.md",
-    "Homework/October 24/10-21-2024.md",
-    "Homework/October 24/10-18-2024.md",
-    "Homework/October 24/10-17-2024.md",
-    "Homework/October 24/10-15-2024.md",
-    "Homework/October 24/10-11-2024.md",
     "Calc notes/Inverse Trig Derivatives.md",
     "Calc notes/Implicit Differentiation.md",
     "10-16-2024.md",
     "Calc notes/Parametric Functions.md",
-    "Homework/October 24/10-10-2024.md",
-    "Homework/October 24/10-8-2024.md",
-    "Homework/October 24/10-2-2024.md",
     "Calc notes/Derivative rules.md",
     "Homework/September 24/9-29-2024.md",
     "Homework/September 24/9-30-2024.md",
     "Homework/September 24/9-5-2024.md",
     "Homework/October 24",
     "Homework/September 24/9-27-2024.md",
-    "Homework/September 24/9-26-2024.md",
     "Assets/CC Livret Packet.pdf",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
@@ -222,8 +225,6 @@
     "Assets/Limits and Continuity1..pdf",
     "Assets/diagram-20240926.png",
     "Assets/Pasted image 20240926165405.png",
-    "Assets/IVTlim,cont,practice.pdf",
-    "Assets/implicitapquestions.pdf",
     "Assets/Pasted image 20240925232946.png",
     "Assets/Pasted image 20240925233014.png",
     "Untitled.canvas",
