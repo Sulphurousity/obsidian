@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9a6fb7f4a066b9",
+        "id": "a2fcf8f9873629db",
         "type": "tabs",
         "children": [
           {
-            "id": "5c031ebe69c37303",
+            "id": "c41af14edc11da82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/November 24/11-12-2024.md",
+                "file": "Homework/November 24/11-13-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-12-2024"
+              "title": "11-13-2024"
             }
           }
         ]
@@ -178,10 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c031ebe69c37303",
+  "active": "c41af14edc11da82",
   "lastOpenFiles": [
-    "Homework/November 24/11-7-2024.md",
     "Homework/November 24/11-12-2024.md",
+    "Homework/November 24/11-13-2024.md",
+    "Calc notes/IVT.md",
+    "Calc notes/Continuity.md",
+    "Calc notes/Differentiability.md",
+    "Calc notes/Parametric Functions.md",
+    "Calc notes/Implicit Differentiation.md",
+    "Calc notes/Inverse Trig Derivatives.md",
+    "Assets/CC Livret Packet.pdf",
+    "Homework/November 24/11-7-2024.md",
     "Homework/November 24/11-6-2024.md",
     "Homework/October 24/10-1-2024.md",
     "Homework/October 24/10-2-2024.md",
@@ -204,15 +212,7 @@
     "Assets/diagram-20240927.png",
     "Assets/Non-Traditional Composition Limits g(x)1.png",
     "Calc notes/Limits.md",
-    "Calc notes/Inverse Trig Derivatives.md",
-    "Calc notes/Implicit Differentiation.md",
-    "10-16-2024.md",
-    "Calc notes/Parametric Functions.md",
-    "Calc notes/Derivative rules.md",
-    "Homework/September 24/9-29-2024.md",
-    "Homework/September 24/9-30-2024.md",
     "Homework/October 24",
-    "Assets/CC Livret Packet.pdf",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
     "Assets/inverse trig extra practice.pdf",
     "Assets/implicitdiff3.pdf",
