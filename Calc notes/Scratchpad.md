@@ -446,3 +446,5 @@ $$\large \frac{dA}{ds}=2s-128s^{-2}$$
 $$\large 0=2s-128s^{-2}$$
 $$\large 0= 2\left( s-\frac{64}{s^2} \right)$$
 $$\large 0=s-\frac{64}{s^2}$$
+---
+$$\large x+a-x=a$$
