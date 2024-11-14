@@ -445,3 +445,6 @@ $$\large A=2s^2+4s\left( \frac{32}{s^2} \right)=2s^2+\frac{128}{s}$$
 $$\large \frac{dA}{ds}=4s-128s^{-2}$$
 $$\large 0=4s-128s^{-2}$$
 $$\large 0= 4\left( s-\frac{32}{s^2} \right)$$
+$$\large 0=s-\frac{32}{s^2}$$
+$$\large s=0,DNE$$
+$$\large s=$$
