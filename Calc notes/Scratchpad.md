@@ -437,3 +437,9 @@ $$\large -\frac{\sqrt{ 3 }}{\sqrt{ 1-3t^2 }}$$
 $$\large \frac{dy}{dx}=6x \frac{1}{\sqrt{ 1-x^2 }}+6\arcsin x+3(1-x^2)^{-\frac{1}{2}}\cdot-2x$$
 $$\large 6\arcsin x+\frac{6x}{\sqrt{ 1-x^2 }}-\frac{6x}{\sqrt{ 1-x^2 }}$$
 $$\large 6\arcsin$$
+---
+$$\large V=s^2h=32$$
+$$\large A=2s^2+4sh$$
+$$\large h=\frac{32}{s^2}$$
+$$\large A=2s^2+4s\left( \frac{32}{s^2} \right)=2s^2+\frac{128}{s}$$
+$$\large \frac{dA}{ds}=4s+4$$
