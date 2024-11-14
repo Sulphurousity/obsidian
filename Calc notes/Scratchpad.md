@@ -445,6 +445,4 @@ $$\large A=s^2+4s\left( \frac{32}{s^2} \right)=s^2+\frac{128}{s}$$
 $$\large \frac{dA}{ds}=2s-128s^{-2}$$
 $$\large 0=2s-128s^{-2}$$
 $$\large 0= 2\left( s-\frac{64}{s^2} \right)$$
-$$\large 0=s-\frac{32}{s^2}$$
-$$\large s=0,DNE$$
-$$\large s=$$
+$$\large 0=s-\frac{64}{s^2}$$

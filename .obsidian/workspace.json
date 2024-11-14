@@ -16,7 +16,7 @@
                 "file": "Calc notes/Scratchpad.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Scratchpad"
