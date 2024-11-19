@@ -11,31 +11,15 @@
             "id": "c41af14edc11da82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Homework/November 24/11-18-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/CC Livret Packet.md"
               },
-              "icon": "lucide-file",
-              "title": "11-18-2024"
-            }
-          },
-          {
-            "id": "20b4b9b41fbda180",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "excalidraw-icon",
+              "title": "CC Livret Packet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +175,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20b4b9b41fbda180",
+  "active": "c41af14edc11da82",
   "lastOpenFiles": [
-    "Homework/November 24/11-15-2024.md",
+    "Assets/CC Livret Packet.pdf",
+    "Assets/Non-Traditional Composition Limits g(x)1.png",
+    "Assets/diagram-20240927.png",
+    "Calc notes/Limits using Def of Der.md",
+    "Calc notes/Scratchpad.md",
     "Homework/November 24/11-18-2024.md",
+    "Homework/November 24/11-15-2024.md",
     "Homework/November 24/11-13-2024.md",
     "Homework/November 24/11-12-2024.md",
-    "Calc notes/Scratchpad.md",
     "Assets/Non Traditional Composition _ Operation Notes _ Practice.pdf",
     "Calc notes/IVT.md",
     "Calc notes/Continuity.md",
@@ -205,7 +193,6 @@
     "Calc notes/Parametric Functions.md",
     "Calc notes/Implicit Differentiation.md",
     "Calc notes/Inverse Trig Derivatives.md",
-    "Assets/CC Livret Packet.pdf",
     "Homework/November 24/11-7-2024.md",
     "Homework/November 24/11-6-2024.md",
     "Homework/October 24/10-1-2024.md",
@@ -220,11 +207,7 @@
     "Homework/October 24/10-17-2024.md",
     "Homework/October 24/10-18-2024.md",
     "Homework/October 24/10-21-2024.md",
-    "Homework/October 24/10-22-2024.md",
-    "Homework/October 24/10-23-2024.md",
     "Homework/November 24",
-    "Assets/diagram-20240927.png",
-    "Assets/Non-Traditional Composition Limits g(x)1.png",
     "Homework/October 24",
     "Assets/Non-Traditional Composition Limits f(x)1.png",
     "Assets/inverse trig extra practice.pdf",
