@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "11-18-2024"
             }
+          },
+          {
+            "id": "20b4b9b41fbda180",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c41af14edc11da82",
+  "active": "20b4b9b41fbda180",
   "lastOpenFiles": [
     "Homework/November 24/11-15-2024.md",
     "Homework/November 24/11-18-2024.md",
